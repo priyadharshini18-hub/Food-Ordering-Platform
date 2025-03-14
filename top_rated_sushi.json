@@ -1,0 +1,110 @@
+{
+    "top_5_rated_restaurants": [
+        {
+            "restaurant_id": "7001976",
+            "name": "Bangkok Garden Thai Cuisine & Sushi Bar",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.9,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "7.6",
+            "delivery_time_estimate": {
+                "min": 35,
+                "max": 50
+            },
+            "cuisines": [
+                "Sushi",
+                "Asian",
+                "Bubble Tea",
+                "Thai"
+            ]
+        },
+        {
+            "restaurant_id": "1453092",
+            "name": "Fish Face Poke Bar",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.8,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "14.59",
+            "delivery_time_estimate": {
+                "min": 40,
+                "max": 55
+            },
+            "cuisines": [
+                "Sushi",
+                "Poke",
+                "Seafood"
+            ]
+        },
+        {
+            "restaurant_id": "8025224",
+            "name": "Poke Fix",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.7,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "15.45",
+            "delivery_time_estimate": {
+                "min": 40,
+                "max": 55
+            },
+            "cuisines": [
+                "Sushi",
+                "Bowls",
+                "Burritos"
+            ]
+        },
+        {
+            "restaurant_id": "425422",
+            "name": "Jensai Sushi",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.6,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "14.77",
+            "delivery_time_estimate": {
+                "min": 35,
+                "max": 50
+            },
+            "cuisines": [
+                "Sushi",
+                "Japanese",
+                "Asian",
+                "Lunch Specials",
+                "Poke",
+                "Vegetarian"
+            ]
+        },
+        {
+            "restaurant_id": "2941825",
+            "name": "Satori Sushi",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.6,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "14.03",
+            "delivery_time_estimate": {
+                "min": 35,
+                "max": 50
+            },
+            "cuisines": [
+                "Sushi",
+                "Japanese",
+                "Asian",
+                "Bowls",
+                "Dessert"
+            ]
+        }
+    ]
+}

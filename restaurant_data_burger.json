@@ -1,0 +1,783 @@
+{
+    "restaurants": [
+        {
+            "restaurant_id": "10283368",
+            "name": "Wayback Burgers",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 3.7,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.12",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "cuisines": [
+                "Hamburgers",
+                "Hamburger",
+                "Chicken",
+                "Kids Menu",
+                "Salads",
+                "Wings"
+            ]
+        },
+        {
+            "restaurant_id": "3361235",
+            "name": "Habit Burger & Grill",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 3.7,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "7.45",
+            "delivery_time_estimate": {
+                "min": 30,
+                "max": 45
+            },
+            "cuisines": [
+                "Hamburgers",
+                "American",
+                "Chicken",
+                "Kids Menu"
+            ]
+        },
+        {
+            "restaurant_id": "2131972",
+            "name": "Burger King",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.7,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.17",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "cuisines": [
+                "Hamburgers",
+                "Fast Food",
+                "American",
+                "Dessert",
+                "Sandwiches"
+            ]
+        },
+        {
+            "restaurant_id": "3344719",
+            "name": "Five Guys",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.3,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "11.92",
+            "delivery_time_estimate": {
+                "min": 35,
+                "max": 50
+            },
+            "cuisines": [
+                "Hamburgers",
+                "American",
+                "Hot Dogs",
+                "Sandwiches"
+            ]
+        },
+        {
+            "restaurant_id": "2251421",
+            "name": "Burger Lounge",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.4,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "14.38",
+            "delivery_time_estimate": {
+                "min": 40,
+                "max": 55
+            },
+            "cuisines": [
+                "Hamburgers",
+                "Hamburger",
+                "Chicken",
+                "Gluten-Free",
+                "Kids Menu",
+                "Salads",
+                "Sandwiches",
+                "Vegan"
+            ]
+        },
+        {
+            "restaurant_id": "2216083",
+            "name": "Shake Shack",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.5,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "15.02",
+            "delivery_time_estimate": {
+                "min": 45,
+                "max": 60
+            },
+            "cuisines": [
+                "Hamburgers",
+                "American",
+                "Hot Dogs",
+                "Shakes"
+            ]
+        },
+        {
+            "restaurant_id": "2934619",
+            "name": "Wild Burger",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 3.7,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "15.68",
+            "delivery_time_estimate": {
+                "min": 40,
+                "max": 55
+            },
+            "cuisines": [
+                "Hamburgers",
+                "Hamburger",
+                "Wings"
+            ]
+        },
+        {
+            "restaurant_id": "2455132",
+            "name": "Jack in the Box",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.2,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.28",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "cuisines": [
+                "Hamburgers",
+                "Sandwiches"
+            ]
+        },
+        {
+            "restaurant_id": "2457649",
+            "name": "McDonald's",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.0,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "3.59",
+            "delivery_time_estimate": {
+                "min": 25,
+                "max": 40
+            },
+            "cuisines": [
+                "Hamburgers",
+                "Fast Food",
+                "American",
+                "Bakery",
+                "Breakfast",
+                "Cafe",
+                "Chicken",
+                "Coffee and Tea",
+                "Ice Cream",
+                "Kids Menu",
+                "Sandwiches"
+            ]
+        },
+        {
+            "restaurant_id": "5030624",
+            "name": "Carl's Jr.",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.4,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.8",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "cuisines": [
+                "Hamburgers",
+                "Fast Food",
+                "American",
+                "Chicken",
+                "Hot Dogs",
+                "Sandwiches"
+            ]
+        },
+        {
+            "restaurant_id": "5289648",
+            "name": "Wendy's",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 3.8,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "6.1",
+            "delivery_time_estimate": {
+                "min": 25,
+                "max": 40
+            },
+            "cuisines": [
+                "Hamburgers",
+                "Fast Food",
+                "American",
+                "Breakfast",
+                "Sandwiches"
+            ]
+        },
+        {
+            "restaurant_id": "3323926",
+            "name": "Chili's",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.7,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "15.43",
+            "delivery_time_estimate": {
+                "min": 40,
+                "max": 55
+            },
+            "cuisines": [
+                "Hamburgers",
+                "Hamburger",
+                "Chicken",
+                "Sandwiches",
+                "Seafood"
+            ]
+        },
+        {
+            "restaurant_id": "2169432",
+            "name": "Iron Horse Tavern",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.7,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "14.83",
+            "delivery_time_estimate": {
+                "min": 40,
+                "max": 55
+            },
+            "cuisines": [
+                "Hamburgers",
+                "Pizza",
+                "Salads",
+                "Sandwiches",
+                "Soup"
+            ]
+        },
+        {
+            "restaurant_id": "5776512",
+            "name": "Hefty Burgers",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.0,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "12.84",
+            "delivery_time_estimate": {
+                "min": 40,
+                "max": 55
+            },
+            "cuisines": [
+                "Hamburgers",
+                "Hamburger",
+                "Gyro",
+                "Salads"
+            ]
+        },
+        {
+            "restaurant_id": "3032464",
+            "name": "Burger Den",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 5.0,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "9.1",
+            "delivery_time_estimate": {
+                "min": 30,
+                "max": 45
+            },
+            "cuisines": [
+                "Hamburgers",
+                "American",
+                "Vegetarian"
+            ]
+        },
+        {
+            "restaurant_id": "7933384",
+            "name": "Bruxie",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.0,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.28",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "cuisines": [
+                "American",
+                "Breakfast",
+                "Brunch"
+            ]
+        },
+        {
+            "restaurant_id": "2469512",
+            "name": "Black Bear Diner",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.6,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.04",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "cuisines": [
+                "Hamburgers",
+                "American",
+                "Breakfast",
+                "Diner",
+                "Lunch Specials",
+                "Steak"
+            ]
+        },
+        {
+            "restaurant_id": "2398130",
+            "name": "Mr. Pickle's Sandwich Shop",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.5,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "2.18",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "cuisines": [
+                "American",
+                "Deli",
+                "Sandwiches"
+            ]
+        },
+        {
+            "restaurant_id": "6258904",
+            "name": "Sactown Burgers",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 2.3,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "15.35",
+            "delivery_time_estimate": {
+                "min": 40,
+                "max": 55
+            },
+            "cuisines": [
+                "Hamburgers",
+                "American"
+            ]
+        },
+        {
+            "restaurant_id": "6732616",
+            "name": "Buddha Belly Burgers",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.7,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "15.11",
+            "delivery_time_estimate": {
+                "min": 40,
+                "max": 55
+            },
+            "cuisines": [
+                "Hamburgers",
+                "Fast Food"
+            ]
+        },
+        {
+            "restaurant_id": "8396640",
+            "name": "Fanny Ann's Saloon",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 3.3,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "14.24",
+            "delivery_time_estimate": {
+                "min": 40,
+                "max": 55
+            },
+            "cuisines": [
+                "Hamburgers",
+                "American",
+                "Hot Dogs",
+                "Sandwiches"
+            ]
+        },
+        {
+            "restaurant_id": "1454023",
+            "name": "Applebee's",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.2,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "9.16",
+            "delivery_time_estimate": {
+                "min": 30,
+                "max": 45
+            },
+            "cuisines": [
+                "Hamburgers",
+                "American",
+                "Chicken",
+                "Pasta",
+                "Salads",
+                "Sandwiches",
+                "Wings"
+            ]
+        },
+        {
+            "restaurant_id": "8708496",
+            "name": "Nick the Greek",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.8,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.23",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "cuisines": [
+                "Greek"
+            ]
+        },
+        {
+            "restaurant_id": "522051",
+            "name": "Buffalo Wild Wings",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 3.8,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "15.68",
+            "delivery_time_estimate": {
+                "min": 40,
+                "max": 55
+            },
+            "cuisines": [
+                "Hamburgers",
+                "Hamburger",
+                "Lunch Specials",
+                "Sandwiches",
+                "Wings"
+            ]
+        },
+        {
+            "restaurant_id": "5966704",
+            "name": "Huckleberry's",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.0,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "14.8",
+            "delivery_time_estimate": {
+                "min": 40,
+                "max": 55
+            },
+            "cuisines": [
+                "Hamburgers",
+                "American",
+                "Breakfast",
+                "Brunch",
+                "Cajun",
+                "Coffee and Tea",
+                "Crepes",
+                "Salads",
+                "Sandwiches",
+                "Soup",
+                "Southern",
+                "Waffles"
+            ]
+        },
+        {
+            "restaurant_id": "2793340",
+            "name": "Cornerstone Cafe & Bar",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.2,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "12.47",
+            "delivery_time_estimate": {
+                "min": 35,
+                "max": 50
+            },
+            "cuisines": [
+                "American",
+                "Breakfast",
+                "Diner",
+                "Salads",
+                "Sandwiches"
+            ]
+        },
+        {
+            "restaurant_id": "3197481",
+            "name": "Capitol gyros",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.7,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "12.83",
+            "delivery_time_estimate": {
+                "min": 35,
+                "max": 50
+            },
+            "cuisines": [
+                "Hamburgers",
+                "Hamburger",
+                "Gyro",
+                "Salads"
+            ]
+        },
+        {
+            "restaurant_id": "7894304",
+            "name": "Broderick Roadhouse",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 3.8,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "13.8",
+            "delivery_time_estimate": {
+                "min": 35,
+                "max": 50
+            },
+            "cuisines": [
+                "Hamburgers",
+                "Hamburger",
+                "Breakfast",
+                "Dessert",
+                "Kids Menu",
+                "Sandwiches",
+                "Vegan",
+                "Vegetarian"
+            ]
+        },
+        {
+            "restaurant_id": "5418080",
+            "name": "Chardennay\u2019s Treat Factory",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 5.0,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "14.72",
+            "delivery_time_estimate": {
+                "min": 40,
+                "max": 55
+            },
+            "cuisines": [
+                "American",
+                "Waffles",
+                "Wings"
+            ]
+        },
+        {
+            "restaurant_id": "6428896",
+            "name": "Falafel Corner Davis",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 5.0,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.33",
+            "delivery_time_estimate": {
+                "min": 30,
+                "max": 45
+            },
+            "cuisines": [
+                "Falafel",
+                "Mediterranean",
+                "Wraps"
+            ]
+        },
+        {
+            "restaurant_id": "8115768",
+            "name": "NASCAR Tenders & Burgers",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 0.1,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.84",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "cuisines": [
+                "Hamburgers",
+                "Hamburger",
+                "Chicken"
+            ]
+        },
+        {
+            "restaurant_id": "8239696",
+            "name": "Buffalo Wild Wings GO",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.1,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "18.13",
+            "delivery_time_estimate": {
+                "min": 40,
+                "max": 55
+            },
+            "cuisines": [
+                "American",
+                "Chicken",
+                "Wings"
+            ]
+        },
+        {
+            "restaurant_id": "2416051",
+            "name": "IHOP",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.0,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.84",
+            "delivery_time_estimate": {
+                "min": 25,
+                "max": 40
+            },
+            "cuisines": [
+                "Hamburgers",
+                "American",
+                "Breakfast",
+                "Chicken",
+                "Coffee and Tea",
+                "Diner",
+                "Kids Menu",
+                "Vegetarian"
+            ]
+        },
+        {
+            "restaurant_id": "10294664",
+            "name": "The Posh Bagel",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 3.6,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.29",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "cuisines": [
+                "Bowls",
+                "Hot Dogs",
+                "Smoothies and Juices"
+            ]
+        },
+        {
+            "restaurant_id": "2750973",
+            "name": "Plant Power Fast Food - Sacramento",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.4,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "14.57",
+            "delivery_time_estimate": {
+                "min": 40,
+                "max": 55
+            },
+            "cuisines": [
+                "Hamburgers",
+                "Hamburger",
+                "Fast Food",
+                "Salads"
+            ]
+        },
+        {
+            "restaurant_id": "2698958",
+            "name": "Denny's",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 3.4,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "7.29",
+            "delivery_time_estimate": {
+                "min": 25,
+                "max": 40
+            },
+            "cuisines": [
+                "American",
+                "Breakfast",
+                "Sandwiches"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "top_5_fastest_delivery_restaurants": [
+        {
+            "restaurant_id": "3040001",
+            "name": "Blaze Pizza",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.6,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.29",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "cuisines": [
+                "Pizza",
+                "American",
+                "Italian"
+            ],
+            "avg_delivery_time": 27.5
+        },
+        {
+            "restaurant_id": "5887960",
+            "name": "Mountain Mike's Pizza",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.2,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.17",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "cuisines": [
+                "Pizza",
+                "American",
+                "Salads",
+                "Sandwiches",
+                "Wings"
+            ],
+            "avg_delivery_time": 27.5
+        },
+        {
+            "restaurant_id": "2856353",
+            "name": "Calzone  Life",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.5,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.56",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "cuisines": [
+                "Pizza",
+                "Calzones",
+                "Dessert",
+                "Salads"
+            ],
+            "avg_delivery_time": 27.5
+        },
+        {
+            "restaurant_id": "2054645",
+            "name": "Panera Bread",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.5,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.23",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "cuisines": [
+                "Pizza",
+                "Soup",
+                "American",
+                "Bakery",
+                "Breakfast",
+                "Cafe",
+                "Chicken",
+                "Coffee and Tea",
+                "Healthy",
+                "Salads",
+                "Sandwiches",
+                "Vegetarian"
+            ],
+            "avg_delivery_time": 27.5
+        },
+        {
+            "restaurant_id": "2115985",
+            "name": "7-Eleven",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.7,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.56",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "cuisines": [
+                "Pizza",
+                "Convenience",
+                "Alcohol",
+                "Candy",
+                "Chicken",
+                "Fast Food",
+                "Ice Cream",
+                "Snacks",
+                "Wings"
+            ],
+            "avg_delivery_time": 27.5
+        }
+    ]
+}

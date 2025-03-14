@@ -1,0 +1,116 @@
+{
+    "top_5_fastest_delivery_restaurants": [
+        {
+            "restaurant_id": "8928272",
+            "name": "Nami Sushi",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.2,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "2.75",
+            "delivery_time_estimate": {
+                "min": 25,
+                "max": 40
+            },
+            "cuisines": [
+                "Sushi",
+                "Bar Food",
+                "Salads",
+                "Seafood"
+            ],
+            "avg_delivery_time": 32.5
+        },
+        {
+            "restaurant_id": "425422",
+            "name": "Jensai Sushi",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.6,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "14.77",
+            "delivery_time_estimate": {
+                "min": 35,
+                "max": 50
+            },
+            "cuisines": [
+                "Sushi",
+                "Japanese",
+                "Asian",
+                "Lunch Specials",
+                "Poke",
+                "Vegetarian"
+            ],
+            "avg_delivery_time": 42.5
+        },
+        {
+            "restaurant_id": "2941825",
+            "name": "Satori Sushi",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.6,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "14.03",
+            "delivery_time_estimate": {
+                "min": 35,
+                "max": 50
+            },
+            "cuisines": [
+                "Sushi",
+                "Japanese",
+                "Asian",
+                "Bowls",
+                "Dessert"
+            ],
+            "avg_delivery_time": 42.5
+        },
+        {
+            "restaurant_id": "1039990",
+            "name": "Raku Sushi",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.5,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "11.84",
+            "delivery_time_estimate": {
+                "min": 35,
+                "max": 50
+            },
+            "cuisines": [
+                "Sushi",
+                "Japanese",
+                "Seafood"
+            ],
+            "avg_delivery_time": 42.5
+        },
+        {
+            "restaurant_id": "7001976",
+            "name": "Bangkok Garden Thai Cuisine & Sushi Bar",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.9,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "7.6",
+            "delivery_time_estimate": {
+                "min": 35,
+                "max": 50
+            },
+            "cuisines": [
+                "Sushi",
+                "Asian",
+                "Bubble Tea",
+                "Thai"
+            ],
+            "avg_delivery_time": 42.5
+        }
+    ]
+}
