@@ -1,0 +1,66 @@
+{
+    "top_ratings": [
+        {
+            "restaurant_id": "956708",
+            "restaurant_name": "I Love Sushi",
+            "type": "Restaurant",
+            "ratings": "4.7",
+            "no_of_ratings": "6k+",
+            "distance": "1.0 mi",
+            "delivery_time": "27 min",
+            "URL": "https://www.doordash.com/store/956708?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJzdXNoaSIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJzdXNoaSIsInZlcnRpY2FsX2lkIjoxLCJ2ZXJ0aWNhbF9uYW1lIjoicmVzdGF1cmFudCJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNCwxNzcsMTkzLDE5NV19&pickup=false"
+        },
+        {
+            "restaurant_id": "240294",
+            "restaurant_name": "Zen Toro Japanese Bistro & Sushi Bar",
+            "type": "Restaurant",
+            "ratings": "4.7",
+            "no_of_ratings": "1k+",
+            "distance": "0.9 mi",
+            "delivery_time": "30 min",
+            "URL": "https://www.doordash.com/store/240294?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJzdXNoaSIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJzdXNoaSIsInZlcnRpY2FsX2lkIjoxLCJ2ZXJ0aWNhbF9uYW1lIjoicmVzdGF1cmFudCJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNCwxNzddfQ==&pickup=false"
+        },
+        {
+            "restaurant_id": "718398",
+            "restaurant_name": "Davis Sushi & Fusion",
+            "type": "Restaurant",
+            "ratings": "4.7",
+            "no_of_ratings": "4k+",
+            "distance": "2.6 mi",
+            "delivery_time": "34 min",
+            "URL": "https://www.doordash.com/store/718398?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJzdXNoaSIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJzdXNoaSIsInZlcnRpY2FsX2lkIjoxLCJ2ZXJ0aWNhbF9uYW1lIjoicmVzdGF1cmFudCJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNCwxNzddfQ==&pickup=false"
+        }
+    ],
+    "top_delivery_time": [
+        {
+            "restaurant_id": "25447682",
+            "restaurant_name": "Why Not Boba? (Davis)",
+            "type": "Restaurant",
+            "ratings": "4.6",
+            "no_of_ratings": "200+",
+            "distance": "0.7 mi",
+            "delivery_time": "22 min",
+            "URL": "https://www.doordash.com/store/25447682?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJzdXNoaSIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJzdXNoaSIsInZlcnRpY2FsX2lkIjoxLCJ2ZXJ0aWNhbF9uYW1lIjoicmVzdGF1cmFudCJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNCwxMDAzMzIsMTc1LDE3NiwxNzcsMTc5LDE5MywxOTUsMjg0XX0=&pickup=false"
+        },
+        {
+            "restaurant_id": "1484563",
+            "restaurant_name": "Ramen House",
+            "type": "Restaurant",
+            "ratings": "4.6",
+            "no_of_ratings": "500+",
+            "distance": "0.9 mi",
+            "delivery_time": "25 min",
+            "URL": "https://www.doordash.com/store/1484563?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJzdXNoaSIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJzdXNoaSIsInZlcnRpY2FsX2lkIjoxLCJ2ZXJ0aWNhbF9uYW1lIjoicmVzdGF1cmFudCJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNCwxNzYsMTc3XX0=&pickup=false"
+        },
+        {
+            "restaurant_id": "240255",
+            "restaurant_name": "Teabo Cafe",
+            "type": "Restaurant",
+            "ratings": "4.5",
+            "no_of_ratings": "6k+",
+            "distance": "1.3 mi",
+            "delivery_time": "26 min",
+            "URL": "https://www.doordash.com/store/240255?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJzdXNoaSIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJzdXNoaSIsInZlcnRpY2FsX2lkIjoxLCJ2ZXJ0aWNhbF9uYW1lIjoicmVzdGF1cmFudCJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNCwxNzddfQ==&pickup=false"
+        }
+    ]
+}

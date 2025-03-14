@@ -1,0 +1,72 @@
+{
+    "top_ratings": [
+        {
+            "restaurant_id": "244402",
+            "restaurant_name": "Woodstock's Pizza",
+            "type": "Restaurant",
+            "ratings": "4.6",
+            "no_of_ratings": "6k+",
+            "distance": "0.8 mi",
+            "delivery_time": "32 min",
+            "URL": "https://www.doordash.com/store/244402?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJwaXp6YSIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJwaXp6YSIsInZlcnRpY2FsX2lkIjoxLCJ2ZXJ0aWNhbF9uYW1lIjoicmVzdGF1cmFudCJ9fQ==&pickup=false",
+            "menu": []
+        },
+        {
+            "restaurant_id": "240198",
+            "restaurant_name": "Blaze Pizza",
+            "type": "Restaurant",
+            "ratings": "4.6",
+            "no_of_ratings": "10k+",
+            "distance": "0.8 mi",
+            "delivery_time": "24 min",
+            "URL": "https://www.doordash.com/store/240198?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJwaXp6YSIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJwaXp6YSIsInZlcnRpY2FsX2lkIjoxLCJ2ZXJ0aWNhbF9uYW1lIjoicmVzdGF1cmFudCJ9fQ==&pickup=false",
+            "menu": []
+        },
+        {
+            "restaurant_id": "27727532",
+            "restaurant_name": "Square Pie Guys",
+            "type": "Restaurant",
+            "ratings": "4.6",
+            "no_of_ratings": "100+",
+            "distance": "1.0 mi",
+            "delivery_time": "28 min",
+            "URL": "https://www.doordash.com/store/27727532?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJwaXp6YSIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJwaXp6YSIsInZlcnRpY2FsX2lkIjoxLCJ2ZXJ0aWNhbF9uYW1lIjoicmVzdGF1cmFudCJ9fQ==&pickup=false",
+            "menu": []
+        }
+    ],
+    "top_delivery_time": [
+        {
+            "restaurant_id": "720446",
+            "restaurant_name": "McDonald's",
+            "type": "Restaurant",
+            "ratings": "4.5",
+            "no_of_ratings": "20k+",
+            "distance": "2.3 mi",
+            "delivery_time": "19 min",
+            "URL": "https://www.doordash.com/store/720446?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJwaXp6YSIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJwaXp6YSIsInZlcnRpY2FsX2lkIjoxLCJ2ZXJ0aWNhbF9uYW1lIjoicmVzdGF1cmFudCJ9fQ==&pickup=false",
+            "menu": []
+        },
+        {
+            "restaurant_id": "1206749",
+            "restaurant_name": "Jack in the Box",
+            "type": "Restaurant",
+            "ratings": "4.1",
+            "no_of_ratings": "9k+",
+            "distance": "0.7 mi",
+            "delivery_time": "19 min",
+            "URL": "https://www.doordash.com/store/1206749?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJwaXp6YSIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJwaXp6YSIsInZlcnRpY2FsX2lkIjoxLCJ2ZXJ0aWNhbF9uYW1lIjoicmVzdGF1cmFudCJ9fQ==&pickup=false",
+            "menu": []
+        },
+        {
+            "restaurant_id": "362381",
+            "restaurant_name": "Burger King",
+            "type": "Restaurant",
+            "ratings": "4.4",
+            "no_of_ratings": "10k+",
+            "distance": "1.7 mi",
+            "delivery_time": "20 min",
+            "URL": "https://www.doordash.com/store/362381?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJwaXp6YSIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJwaXp6YSIsInZlcnRpY2FsX2lkIjoxLCJ2ZXJ0aWNhbF9uYW1lIjoicmVzdGF1cmFudCJ9fQ==&pickup=false",
+            "menu": []
+        }
+    ]
+}
