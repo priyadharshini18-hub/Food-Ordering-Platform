@@ -1,0 +1,611 @@
+{
+    "restaurants": [
+        {
+            "restaurant_id": "5616456",
+            "name": "Little Caesars Pizza",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 5.0,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.9",
+            "delivery_time_estimate": {
+                "min": 25,
+                "max": 40
+            },
+            "cuisines": [
+                "Pizza",
+                "American",
+                "Fast Food",
+                "Italian",
+                "Lunch Specials",
+                "Wings"
+            ]
+        },
+        {
+            "restaurant_id": "9271424",
+            "name": "Round Table Pizza",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 3.7,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "3.6",
+            "delivery_time_estimate": {
+                "min": 25,
+                "max": 40
+            },
+            "cuisines": [
+                "Pizza",
+                "Dessert",
+                "Fast Food",
+                "Italian",
+                "Pasta",
+                "Wings"
+            ]
+        },
+        {
+            "restaurant_id": "2930067",
+            "name": "Delish Pizza",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.3,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "14.77",
+            "delivery_time_estimate": {
+                "min": 35,
+                "max": 50
+            },
+            "cuisines": [
+                "Pizza",
+                "Salads",
+                "Wings"
+            ]
+        },
+        {
+            "restaurant_id": "5887960",
+            "name": "Mountain Mike's Pizza",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.2,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.17",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "cuisines": [
+                "Pizza",
+                "American",
+                "Salads",
+                "Sandwiches",
+                "Wings"
+            ]
+        },
+        {
+            "restaurant_id": "313258",
+            "name": "Pizza Guys",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 3.3,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.58",
+            "delivery_time_estimate": {
+                "min": 45,
+                "max": 55
+            },
+            "cuisines": [
+                "Pizza",
+                "Lunch Specials"
+            ]
+        },
+        {
+            "restaurant_id": "4723296",
+            "name": "Pizza Hut",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.0,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "16.16",
+            "delivery_time_estimate": {
+                "min": 40,
+                "max": 55
+            },
+            "cuisines": [
+                "Pizza",
+                "American",
+                "Pasta",
+                "Wings"
+            ]
+        },
+        {
+            "restaurant_id": "559871",
+            "name": "Woodstock's Pizza Davis",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.0,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.33",
+            "delivery_time_estimate": {
+                "min": 35,
+                "max": 45
+            },
+            "cuisines": [
+                "Pizza",
+                "Dessert",
+                "Salads"
+            ]
+        },
+        {
+            "restaurant_id": "326805",
+            "name": "Papa Johns",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 3.9,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "14.84",
+            "delivery_time_estimate": {
+                "min": 35,
+                "max": 50
+            },
+            "cuisines": [
+                "Pizza",
+                "American",
+                "Lunch Specials",
+                "Wings"
+            ]
+        },
+        {
+            "restaurant_id": "4485632",
+            "name": "MOD Pizza (West Sacramento)",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.3,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "11.93",
+            "delivery_time_estimate": {
+                "min": 35,
+                "max": 50
+            },
+            "cuisines": [
+                "Pizza",
+                "American",
+                "Fast Food",
+                "Healthy",
+                "Salads",
+                "Vegan",
+                "Vegetarian"
+            ]
+        },
+        {
+            "restaurant_id": "9562360",
+            "name": "Delish Pizza",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.8,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "15.2",
+            "delivery_time_estimate": {
+                "min": 40,
+                "max": 55
+            },
+            "cuisines": [
+                "Pizza",
+                "Calzones",
+                "Pasta",
+                "Salads",
+                "Wings"
+            ]
+        },
+        {
+            "restaurant_id": "8652352",
+            "name": "Marco's Pizza",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.3,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "12.1",
+            "delivery_time_estimate": {
+                "min": 35,
+                "max": 50
+            },
+            "cuisines": [
+                "Pizza",
+                "Calzones",
+                "Subs",
+                "Wings"
+            ]
+        },
+        {
+            "restaurant_id": "3091206",
+            "name": "Pizza Guys",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 3.8,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "7.5",
+            "delivery_time_estimate": {
+                "min": 35,
+                "max": 50
+            },
+            "cuisines": [
+                "Pizza",
+                "Gluten-Free",
+                "Wings"
+            ]
+        },
+        {
+            "restaurant_id": "2031294",
+            "name": "Buffalo Pizza & Ice Cream",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.6,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "14.99",
+            "delivery_time_estimate": {
+                "min": 40,
+                "max": 55
+            },
+            "cuisines": [
+                "Pizza",
+                "Chicken",
+                "Gluten-Free",
+                "Ice Cream",
+                "Italian",
+                "Salads",
+                "Vegan",
+                "Vegetarian"
+            ]
+        },
+        {
+            "restaurant_id": "2717800",
+            "name": "Pizza Guys",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.5,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "11.81",
+            "delivery_time_estimate": {
+                "min": 30,
+                "max": 45
+            },
+            "cuisines": [
+                "Pizza",
+                "Lunch Specials",
+                "Wings"
+            ]
+        },
+        {
+            "restaurant_id": "7649912",
+            "name": "Cenarios Pizza of Dixon",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.4,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "7.38",
+            "delivery_time_estimate": {
+                "min": 25,
+                "max": 40
+            },
+            "cuisines": [
+                "Pizza",
+                "American",
+                "Fast Food"
+            ]
+        },
+        {
+            "restaurant_id": "6126736",
+            "name": "Pizza Twist",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.5,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "14.25",
+            "delivery_time_estimate": {
+                "min": 40,
+                "max": 55
+            },
+            "cuisines": [
+                "Pizza",
+                "Italian"
+            ]
+        },
+        {
+            "restaurant_id": "8749232",
+            "name": "Cenarios Pizza Davis",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 5.0,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.88",
+            "delivery_time_estimate": {
+                "min": 25,
+                "max": 40
+            },
+            "cuisines": [
+                "Pizza",
+                "American",
+                "Fast Food"
+            ]
+        },
+        {
+            "restaurant_id": "2715859",
+            "name": "Pizza Guys",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.6,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "14.94",
+            "delivery_time_estimate": {
+                "min": 40,
+                "max": 55
+            },
+            "cuisines": [
+                "Pizza",
+                "American",
+                "Lunch Specials"
+            ]
+        },
+        {
+            "restaurant_id": "2856353",
+            "name": "Calzone  Life",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.5,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.56",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "cuisines": [
+                "Pizza",
+                "Calzones",
+                "Dessert",
+                "Salads"
+            ]
+        },
+        {
+            "restaurant_id": "6659912",
+            "name": "Papa Murphy's",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.3,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "13.14",
+            "delivery_time_estimate": {
+                "min": 35,
+                "max": 50
+            },
+            "cuisines": [
+                "Pizza"
+            ]
+        },
+        {
+            "restaurant_id": "2720903",
+            "name": "Calzone Life",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.5,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "14.94",
+            "delivery_time_estimate": {
+                "min": 40,
+                "max": 55
+            },
+            "cuisines": [
+                "Pizza",
+                "Calzones",
+                "Dessert",
+                "Salads"
+            ]
+        },
+        {
+            "restaurant_id": "2719996",
+            "name": "Calzone Life",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.9,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "11.81",
+            "delivery_time_estimate": {
+                "min": 30,
+                "max": 45
+            },
+            "cuisines": [
+                "Pizza",
+                "Calzones",
+                "Dessert",
+                "Salads"
+            ]
+        },
+        {
+            "restaurant_id": "4021072",
+            "name": "Il Fornaio- Sacramento",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.4,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "14.28",
+            "delivery_time_estimate": {
+                "min": 35,
+                "max": 50
+            },
+            "cuisines": [
+                "Pizza",
+                "Italian",
+                "Pasta"
+            ]
+        },
+        {
+            "restaurant_id": "2169432",
+            "name": "Iron Horse Tavern",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.7,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "14.83",
+            "delivery_time_estimate": {
+                "min": 35,
+                "max": 50
+            },
+            "cuisines": [
+                "Pizza",
+                "Hamburgers",
+                "Salads",
+                "Sandwiches",
+                "Soup"
+            ]
+        },
+        {
+            "restaurant_id": "2054645",
+            "name": "Panera Bread",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.5,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.23",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "cuisines": [
+                "Pizza",
+                "Soup",
+                "American",
+                "Bakery",
+                "Breakfast",
+                "Cafe",
+                "Chicken",
+                "Coffee and Tea",
+                "Healthy",
+                "Salads",
+                "Sandwiches",
+                "Vegetarian"
+            ]
+        },
+        {
+            "restaurant_id": "2115985",
+            "name": "7-Eleven",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.7,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.56",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "cuisines": [
+                "Pizza",
+                "Convenience",
+                "Alcohol",
+                "Candy",
+                "Chicken",
+                "Fast Food",
+                "Ice Cream",
+                "Snacks",
+                "Wings"
+            ]
+        },
+        {
+            "restaurant_id": "3045695",
+            "name": "Speedway",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 5.0,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "18.5",
+            "delivery_time_estimate": {
+                "min": 35,
+                "max": 50
+            },
+            "cuisines": [
+                "Pizza",
+                "Convenience",
+                "Alcohol",
+                "Candy",
+                "Fast Food",
+                "Ice Cream"
+            ]
+        },
+        {
+            "restaurant_id": "3143146",
+            "name": "Grubhub Goods",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 5.0,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.56",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "cuisines": [
+                "Pizza",
+                "Convenience",
+                "Candy",
+                "Chicken",
+                "Dessert",
+                "Fast Food",
+                "Ice Cream",
+                "Snacks",
+                "Wings"
+            ]
+        }
+    ]
+}

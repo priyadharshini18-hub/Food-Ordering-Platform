@@ -1,0 +1,435 @@
+{
+    "restaurants": [
+        {
+            "restaurant_id": "553901",
+            "name": "Davis Sushi Restaurant",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.5,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.39",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "cuisines": [
+                "Sushi",
+                "Japanese",
+                "Asian",
+                "Breakfast",
+                "Lunch Specials",
+                "Seafood"
+            ]
+        },
+        {
+            "restaurant_id": "8928272",
+            "name": "Nami Sushi",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.2,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "2.75",
+            "delivery_time_estimate": {
+                "min": 25,
+                "max": 40
+            },
+            "cuisines": [
+                "Sushi",
+                "Bar Food",
+                "Salads",
+                "Seafood"
+            ]
+        },
+        {
+            "restaurant_id": "425422",
+            "name": "Jensai Sushi",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.6,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "14.77",
+            "delivery_time_estimate": {
+                "min": 30,
+                "max": 45
+            },
+            "cuisines": [
+                "Sushi",
+                "Japanese",
+                "Asian",
+                "Lunch Specials",
+                "Poke",
+                "Vegetarian"
+            ]
+        },
+        {
+            "restaurant_id": "2941825",
+            "name": "Satori Sushi",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.6,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "14.03",
+            "delivery_time_estimate": {
+                "min": 35,
+                "max": 50
+            },
+            "cuisines": [
+                "Sushi",
+                "Japanese",
+                "Asian",
+                "Bowls",
+                "Dessert"
+            ]
+        },
+        {
+            "restaurant_id": "1039990",
+            "name": "Raku Sushi",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.5,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "11.84",
+            "delivery_time_estimate": {
+                "min": 30,
+                "max": 45
+            },
+            "cuisines": [
+                "Sushi",
+                "Japanese",
+                "Seafood"
+            ]
+        },
+        {
+            "restaurant_id": "1718518",
+            "name": "Ju Hachi",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.5,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "15.01",
+            "delivery_time_estimate": {
+                "min": 35,
+                "max": 50
+            },
+            "cuisines": [
+                "Sushi",
+                "Japanese",
+                "Asian",
+                "Lunch Specials",
+                "Noodles",
+                "Ramen"
+            ]
+        },
+        {
+            "restaurant_id": "7584832",
+            "name": "Zumapoke & Lush Ice",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.9,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.29",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "cuisines": [
+                "Asian",
+                "Bowls",
+                "Poke"
+            ]
+        },
+        {
+            "restaurant_id": "7583696",
+            "name": "Tasty Gourmet",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.6,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "2.75",
+            "delivery_time_estimate": {
+                "min": 25,
+                "max": 40
+            },
+            "cuisines": [
+                "Asian",
+                "Dim Sum",
+                "Noodles",
+                "Seafood",
+                "Soup"
+            ]
+        },
+        {
+            "restaurant_id": "8025224",
+            "name": "Poke Fix",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.7,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "15.45",
+            "delivery_time_estimate": {
+                "min": 35,
+                "max": 50
+            },
+            "cuisines": [
+                "Sushi",
+                "Bowls",
+                "Burritos"
+            ]
+        },
+        {
+            "restaurant_id": "1453092",
+            "name": "Fish Face Poke Bar",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.8,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "14.59",
+            "delivery_time_estimate": {
+                "min": 35,
+                "max": 50
+            },
+            "cuisines": [
+                "Sushi",
+                "Poke",
+                "Seafood"
+            ]
+        },
+        {
+            "restaurant_id": "4976816",
+            "name": "Teriyaki Madness",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.5,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "14.03",
+            "delivery_time_estimate": {
+                "min": 40,
+                "max": 55
+            },
+            "cuisines": [
+                "Japanese",
+                "Asian",
+                "Asian Fusion",
+                "Vegetarian"
+            ]
+        },
+        {
+            "restaurant_id": "2789227",
+            "name": "Ramen 101 - Midtown",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 5.0,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "14.99",
+            "delivery_time_estimate": {
+                "min": 35,
+                "max": 50
+            },
+            "cuisines": [
+                "Chicken",
+                "Ramen"
+            ]
+        },
+        {
+            "restaurant_id": "2734782",
+            "name": "Poke Ichii",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.4,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "14.36",
+            "delivery_time_estimate": {
+                "min": 35,
+                "max": 50
+            },
+            "cuisines": [
+                "Asian",
+                "Hawaiian",
+                "Poke"
+            ]
+        },
+        {
+            "restaurant_id": "1958456",
+            "name": "Panda Express",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.6,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.08",
+            "delivery_time_estimate": {
+                "min": 30,
+                "max": 45
+            },
+            "cuisines": [
+                "Asian",
+                "Chinese"
+            ]
+        },
+        {
+            "restaurant_id": "3359690",
+            "name": "Good Friends Restaurant",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.5,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "14.13",
+            "delivery_time_estimate": {
+                "min": 35,
+                "max": 50
+            },
+            "cuisines": [
+                "Sushi",
+                "Chinese",
+                "Asian",
+                "Chicken",
+                "Lunch Specials",
+                "Noodles",
+                "Seafood",
+                "Soup",
+                "Vegetarian"
+            ]
+        },
+        {
+            "restaurant_id": "7056768",
+            "name": "Ming Dynasty",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.1,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "14.44",
+            "delivery_time_estimate": {
+                "min": 40,
+                "max": 55
+            },
+            "cuisines": [
+                "Chinese",
+                "BBQ",
+                "Dim Sum",
+                "Healthy",
+                "Noodles",
+                "Seafood",
+                "Soup",
+                "Vegetarian"
+            ]
+        },
+        {
+            "restaurant_id": "2638722",
+            "name": "Treasure Dragon Chinese Restaurant",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.5,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "9.17",
+            "delivery_time_estimate": {
+                "min": 30,
+                "max": 45
+            },
+            "cuisines": [
+                "Chinese",
+                "Asian",
+                "Classic",
+                "Lunch Specials",
+                "Noodles",
+                "Vegetarian"
+            ]
+        },
+        {
+            "restaurant_id": "3185117",
+            "name": "T & Z Chinese Restaurant",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.2,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "14.03",
+            "delivery_time_estimate": {
+                "min": 35,
+                "max": 50
+            },
+            "cuisines": [
+                "Chinese",
+                "Lunch Specials",
+                "Seafood",
+                "Soup",
+                "Vegetarian"
+            ]
+        },
+        {
+            "restaurant_id": "8097384",
+            "name": "Safeway",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.4,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.15",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "cuisines": [
+                "Candy",
+                "Snacks"
+            ]
+        },
+        {
+            "restaurant_id": "3360077",
+            "name": "ExtraMile Convenience Stores",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 5.0,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "17.67",
+            "delivery_time_estimate": {
+                "min": 35,
+                "max": 50
+            },
+            "cuisines": [
+                "Convenience",
+                "Bakery",
+                "Candy",
+                "Coffee and Tea",
+                "Ice Cream",
+                "Snacks"
+            ]
+        }
+    ]
+}

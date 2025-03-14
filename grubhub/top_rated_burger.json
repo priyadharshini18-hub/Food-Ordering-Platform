@@ -1,0 +1,109 @@
+{
+    "top_5_rated_restaurants": [
+        {
+            "restaurant_id": "3032464",
+            "name": "Burger Den",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 5.0,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "9.1",
+            "delivery_time_estimate": {
+                "min": 25,
+                "max": 40
+            },
+            "cuisines": [
+                "Hamburgers",
+                "American",
+                "Vegetarian"
+            ]
+        },
+        {
+            "restaurant_id": "2131972",
+            "name": "Burger King",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.7,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.17",
+            "delivery_time_estimate": {
+                "min": 15,
+                "max": 30
+            },
+            "cuisines": [
+                "Hamburgers",
+                "Fast Food",
+                "American",
+                "Dessert",
+                "Sandwiches"
+            ]
+        },
+        {
+            "restaurant_id": "3323926",
+            "name": "Chili's",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.7,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "15.43",
+            "delivery_time_estimate": {
+                "min": 40,
+                "max": 55
+            },
+            "cuisines": [
+                "Hamburgers",
+                "Hamburger",
+                "Chicken",
+                "Sandwiches",
+                "Seafood"
+            ]
+        },
+        {
+            "restaurant_id": "2169432",
+            "name": "Iron Horse Tavern",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.7,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "14.83",
+            "delivery_time_estimate": {
+                "min": 35,
+                "max": 50
+            },
+            "cuisines": [
+                "Hamburgers",
+                "Pizza",
+                "Salads",
+                "Sandwiches",
+                "Soup"
+            ]
+        },
+        {
+            "restaurant_id": "6732616",
+            "name": "Buddha Belly Burgers",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.7,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "15.11",
+            "delivery_time_estimate": {
+                "min": 35,
+                "max": 50
+            },
+            "cuisines": [
+                "Hamburgers",
+                "Fast Food"
+            ]
+        }
+    ]
+}

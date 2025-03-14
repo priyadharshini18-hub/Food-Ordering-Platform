@@ -1,0 +1,124 @@
+{
+    "top_5_fastest_delivery_restaurants": [
+        {
+            "restaurant_id": "2131972",
+            "name": "Burger King",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.7,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.17",
+            "delivery_time_estimate": {
+                "min": 15,
+                "max": 30
+            },
+            "cuisines": [
+                "Hamburgers",
+                "Fast Food",
+                "American",
+                "Dessert",
+                "Sandwiches"
+            ],
+            "avg_delivery_time": 22.5
+        },
+        {
+            "restaurant_id": "10283368",
+            "name": "Wayback Burgers",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 3.7,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.12",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "cuisines": [
+                "Hamburgers",
+                "Hamburger",
+                "Chicken",
+                "Kids Menu",
+                "Salads",
+                "Wings"
+            ],
+            "avg_delivery_time": 27.5
+        },
+        {
+            "restaurant_id": "2455132",
+            "name": "Jack in the Box",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.2,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.28",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "cuisines": [
+                "Hamburgers",
+                "Sandwiches"
+            ],
+            "avg_delivery_time": 27.5
+        },
+        {
+            "restaurant_id": "5030624",
+            "name": "Carl's Jr.",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.4,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.8",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "cuisines": [
+                "Hamburgers",
+                "Fast Food",
+                "American",
+                "Chicken",
+                "Hot Dogs",
+                "Sandwiches"
+            ],
+            "avg_delivery_time": 27.5
+        },
+        {
+            "restaurant_id": "2457649",
+            "name": "McDonald's",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.0,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "3.59",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "cuisines": [
+                "Hamburgers",
+                "Fast Food",
+                "American",
+                "Bakery",
+                "Breakfast",
+                "Cafe",
+                "Chicken",
+                "Coffee and Tea",
+                "Ice Cream",
+                "Kids Menu",
+                "Sandwiches"
+            ],
+            "avg_delivery_time": 27.5
+        }
+    ]
+}
