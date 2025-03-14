@@ -1,0 +1,112 @@
+{
+    "240203": {
+        "restaurant_id": "240203",
+        "restaurant_name": "Burgers and Brew",
+        "type": "Restaurant",
+        "ratings": "4.6",
+        "no_of_ratings": "10k+",
+        "distance": "0.8 mi",
+        "delivery_time": "23 min",
+        "URL": "https://www.doordash.com/store/240203?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJidXJnZXIiLCJpdGVtX2lkcyI6W10sInNlYXJjaF90ZXJtIjoiYnVyZ2VyIiwidmVydGljYWxfaWQiOjEsInZlcnRpY2FsX25hbWUiOiJyZXN0YXVyYW50In0sInN0b3JlX3ByaW1hcnlfdmVydGljYWxfaWRzIjpbMSw0LDE3NiwxNzcsMTkzLDE5NV19&pickup=false",
+        "menu": []
+    },
+    "26273153": {
+        "restaurant_id": "26273153",
+        "restaurant_name": "Outpost Burger",
+        "type": "Restaurant",
+        "ratings": "4.8",
+        "no_of_ratings": "500+",
+        "distance": "0.7 mi",
+        "delivery_time": "18 min",
+        "URL": "https://www.doordash.com/store/26273153?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJidXJnZXIiLCJpdGVtX2lkcyI6W10sInNlYXJjaF90ZXJtIjoiYnVyZ2VyIiwidmVydGljYWxfaWQiOjEsInZlcnRpY2FsX25hbWUiOiJyZXN0YXVyYW50In0sInN0b3JlX3ByaW1hcnlfdmVydGljYWxfaWRzIjpbMSw0LDE3N119&pickup=false",
+        "menu": []
+    },
+    "720446": {
+        "restaurant_id": "720446",
+        "restaurant_name": "McDonald's",
+        "type": "Restaurant",
+        "ratings": "4.5",
+        "no_of_ratings": "20k+",
+        "distance": "2.3 mi",
+        "delivery_time": "20 min",
+        "URL": "https://www.doordash.com/store/720446?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJidXJnZXIiLCJpdGVtX2lkcyI6W10sInNlYXJjaF90ZXJtIjoiYnVyZ2VyIiwidmVydGljYWxfaWQiOjEsInZlcnRpY2FsX25hbWUiOiJyZXN0YXVyYW50In0sInN0b3JlX3ByaW1hcnlfdmVydGljYWxfaWRzIjpbMSw0LDEwMDMzMiwxMDAzMzMsMTQyLDE3NSwxNzYsMTc3LDE3OSwxOTMsMTk1XX0=&pickup=false",
+        "menu": []
+    },
+    "1206749": {
+        "restaurant_id": "1206749",
+        "restaurant_name": "Jack in the Box",
+        "type": "Restaurant",
+        "ratings": "4.1",
+        "no_of_ratings": "9k+",
+        "distance": "0.7 mi",
+        "delivery_time": "20 min",
+        "URL": "https://www.doordash.com/store/1206749?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJidXJnZXIiLCJpdGVtX2lkcyI6W10sInNlYXJjaF90ZXJtIjoiYnVyZ2VyIiwidmVydGljYWxfaWQiOjEsInZlcnRpY2FsX25hbWUiOiJyZXN0YXVyYW50In0sInN0b3JlX3ByaW1hcnlfdmVydGljYWxfaWRzIjpbMSw0LDEwMDMzMiwxMDAzMzMsMTc2LDE3NywxNzksMTkzLDE5NV19&pickup=false",
+        "menu": []
+    },
+    "802277": {
+        "restaurant_id": "802277",
+        "restaurant_name": "Carl's Jr.",
+        "type": "Restaurant",
+        "ratings": "4.7",
+        "no_of_ratings": "2k+",
+        "distance": "1.2 mi",
+        "delivery_time": "21 min",
+        "URL": "https://www.doordash.com/store/802277?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJidXJnZXIiLCJpdGVtX2lkcyI6W10sInNlYXJjaF90ZXJtIjoiYnVyZ2VyIiwidmVydGljYWxfaWQiOjEsInZlcnRpY2FsX25hbWUiOiJyZXN0YXVyYW50In0sInN0b3JlX3ByaW1hcnlfdmVydGljYWxfaWRzIjpbMSw0LDE3NiwxNzcsMTkzLDE5NV19&pickup=false",
+        "menu": []
+    },
+    "362381": {
+        "restaurant_id": "362381",
+        "restaurant_name": "Burger King",
+        "type": "Restaurant",
+        "ratings": "4.4",
+        "no_of_ratings": "10k+",
+        "distance": "1.7 mi",
+        "delivery_time": "22 min",
+        "URL": "https://www.doordash.com/store/362381?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJidXJnZXIiLCJpdGVtX2lkcyI6W10sInNlYXJjaF90ZXJtIjoiYnVyZ2VyIiwidmVydGljYWxfaWQiOjEsInZlcnRpY2FsX25hbWUiOiJyZXN0YXVyYW50In0sInN0b3JlX3ByaW1hcnlfdmVydGljYWxfaWRzIjpbMSw0LDEwMDMzMiwxNDIsMTc2LDE3NywxOTMsMTk1XX0=&pickup=false",
+        "menu": []
+    },
+    "28002407": {
+        "restaurant_id": "28002407",
+        "restaurant_name": "Wayback Burgers",
+        "type": "Restaurant",
+        "ratings": "4.3",
+        "no_of_ratings": "200+",
+        "distance": "1.4 mi",
+        "delivery_time": "24 min",
+        "URL": "https://www.doordash.com/store/28002407?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJidXJnZXIiLCJpdGVtX2lkcyI6W10sInNlYXJjaF90ZXJtIjoiYnVyZ2VyIiwidmVydGljYWxfaWQiOjEsInZlcnRpY2FsX25hbWUiOiJyZXN0YXVyYW50In0sInN0b3JlX3ByaW1hcnlfdmVydGljYWxfaWRzIjpbMSw0LDE5MywxOTVdfQ==&pickup=false",
+        "menu": []
+    },
+    "31118583": {
+        "restaurant_id": "31118583",
+        "restaurant_name": "Sweet Onion Burger by Alvin Cailan",
+        "type": "Restaurant",
+        "ratings": "4.5",
+        "no_of_ratings": "100+",
+        "distance": "1.0 mi",
+        "delivery_time": "28 min",
+        "URL": "https://www.doordash.com/store/31118583?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJidXJnZXIiLCJpdGVtX2lkcyI6W10sInNlYXJjaF90ZXJtIjoiYnVyZ2VyIiwidmVydGljYWxfaWQiOjEsInZlcnRpY2FsX25hbWUiOiJyZXN0YXVyYW50In0sInN0b3JlX3ByaW1hcnlfdmVydGljYWxfaWRzIjpbMSw0LDE5MywxOTVdfQ==&pickup=false",
+        "menu": []
+    },
+    "240272": {
+        "restaurant_id": "240272",
+        "restaurant_name": "Tommy J's Grill & Catering",
+        "type": "Restaurant",
+        "ratings": "4.7",
+        "no_of_ratings": "2k+",
+        "distance": "0.9 mi",
+        "delivery_time": "27 min",
+        "URL": "https://www.doordash.com/store/240272?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJidXJnZXIiLCJpdGVtX2lkcyI6W10sInNlYXJjaF90ZXJtIjoiYnVyZ2VyIiwidmVydGljYWxfaWQiOjEsInZlcnRpY2FsX25hbWUiOiJyZXN0YXVyYW50In0sInN0b3JlX3ByaW1hcnlfdmVydGljYWxfaWRzIjpbMSw0LDE3NywxOTMsMTk1XX0=&pickup=false",
+        "menu": []
+    },
+    "30642865": {
+        "restaurant_id": "30642865",
+        "restaurant_name": "Local Kitchens",
+        "type": "Restaurant",
+        "ratings": "4.6",
+        "no_of_ratings": "200+",
+        "distance": "1.0 mi",
+        "delivery_time": "26 min",
+        "URL": "https://www.doordash.com/store/30642865?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJidXJnZXIiLCJpdGVtX2lkcyI6W10sInNlYXJjaF90ZXJtIjoiYnVyZ2VyIiwidmVydGljYWxfaWQiOjEsInZlcnRpY2FsX25hbWUiOiJyZXN0YXVyYW50In0sInN0b3JlX3ByaW1hcnlfdmVydGljYWxfaWRzIjpbMSw0LDEwMDMzMywxOTMsMTk1XX0=&pickup=false",
+        "menu": []
+    }
+}

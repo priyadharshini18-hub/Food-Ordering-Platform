@@ -1,0 +1,72 @@
+{
+    "top_ratings": [
+        {
+            "restaurant_id": "26273153",
+            "restaurant_name": "Outpost Burger",
+            "type": "Restaurant",
+            "ratings": "4.8",
+            "no_of_ratings": "500+",
+            "distance": "0.7 mi",
+            "delivery_time": "18 min",
+            "URL": "https://www.doordash.com/store/26273153?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJidXJnZXIiLCJpdGVtX2lkcyI6W10sInNlYXJjaF90ZXJtIjoiYnVyZ2VyIiwidmVydGljYWxfaWQiOjEsInZlcnRpY2FsX25hbWUiOiJyZXN0YXVyYW50In0sInN0b3JlX3ByaW1hcnlfdmVydGljYWxfaWRzIjpbMSw0LDE3N119&pickup=false",
+            "menu": []
+        },
+        {
+            "restaurant_id": "802277",
+            "restaurant_name": "Carl's Jr.",
+            "type": "Restaurant",
+            "ratings": "4.7",
+            "no_of_ratings": "2k+",
+            "distance": "1.2 mi",
+            "delivery_time": "21 min",
+            "URL": "https://www.doordash.com/store/802277?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJidXJnZXIiLCJpdGVtX2lkcyI6W10sInNlYXJjaF90ZXJtIjoiYnVyZ2VyIiwidmVydGljYWxfaWQiOjEsInZlcnRpY2FsX25hbWUiOiJyZXN0YXVyYW50In0sInN0b3JlX3ByaW1hcnlfdmVydGljYWxfaWRzIjpbMSw0LDE3NiwxNzcsMTkzLDE5NV19&pickup=false",
+            "menu": []
+        },
+        {
+            "restaurant_id": "240272",
+            "restaurant_name": "Tommy J's Grill & Catering",
+            "type": "Restaurant",
+            "ratings": "4.7",
+            "no_of_ratings": "2k+",
+            "distance": "0.9 mi",
+            "delivery_time": "27 min",
+            "URL": "https://www.doordash.com/store/240272?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJidXJnZXIiLCJpdGVtX2lkcyI6W10sInNlYXJjaF90ZXJtIjoiYnVyZ2VyIiwidmVydGljYWxfaWQiOjEsInZlcnRpY2FsX25hbWUiOiJyZXN0YXVyYW50In0sInN0b3JlX3ByaW1hcnlfdmVydGljYWxfaWRzIjpbMSw0LDE3NywxOTMsMTk1XX0=&pickup=false",
+            "menu": []
+        }
+    ],
+    "top_delivery_time": [
+        {
+            "restaurant_id": "26273153",
+            "restaurant_name": "Outpost Burger",
+            "type": "Restaurant",
+            "ratings": "4.8",
+            "no_of_ratings": "500+",
+            "distance": "0.7 mi",
+            "delivery_time": "18 min",
+            "URL": "https://www.doordash.com/store/26273153?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJidXJnZXIiLCJpdGVtX2lkcyI6W10sInNlYXJjaF90ZXJtIjoiYnVyZ2VyIiwidmVydGljYWxfaWQiOjEsInZlcnRpY2FsX25hbWUiOiJyZXN0YXVyYW50In0sInN0b3JlX3ByaW1hcnlfdmVydGljYWxfaWRzIjpbMSw0LDE3N119&pickup=false",
+            "menu": []
+        },
+        {
+            "restaurant_id": "720446",
+            "restaurant_name": "McDonald's",
+            "type": "Restaurant",
+            "ratings": "4.5",
+            "no_of_ratings": "20k+",
+            "distance": "2.3 mi",
+            "delivery_time": "20 min",
+            "URL": "https://www.doordash.com/store/720446?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJidXJnZXIiLCJpdGVtX2lkcyI6W10sInNlYXJjaF90ZXJtIjoiYnVyZ2VyIiwidmVydGljYWxfaWQiOjEsInZlcnRpY2FsX25hbWUiOiJyZXN0YXVyYW50In0sInN0b3JlX3ByaW1hcnlfdmVydGljYWxfaWRzIjpbMSw0LDEwMDMzMiwxMDAzMzMsMTQyLDE3NSwxNzYsMTc3LDE3OSwxOTMsMTk1XX0=&pickup=false",
+            "menu": []
+        },
+        {
+            "restaurant_id": "1206749",
+            "restaurant_name": "Jack in the Box",
+            "type": "Restaurant",
+            "ratings": "4.1",
+            "no_of_ratings": "9k+",
+            "distance": "0.7 mi",
+            "delivery_time": "20 min",
+            "URL": "https://www.doordash.com/store/1206749?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJidXJnZXIiLCJpdGVtX2lkcyI6W10sInNlYXJjaF90ZXJtIjoiYnVyZ2VyIiwidmVydGljYWxfaWQiOjEsInZlcnRpY2FsX25hbWUiOiJyZXN0YXVyYW50In0sInN0b3JlX3ByaW1hcnlfdmVydGljYWxfaWRzIjpbMSw0LDEwMDMzMiwxMDAzMzMsMTc2LDE3NywxNzksMTkzLDE5NV19&pickup=false",
+            "menu": []
+        }
+    ]
+}
