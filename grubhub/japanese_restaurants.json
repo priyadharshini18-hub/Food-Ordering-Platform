@@ -1,0 +1,94 @@
+{
+    "japanese_restaurants": [
+        {
+            "id": "",
+            "name": "Jensai Sushi",
+            "address": {
+                "address_country": null,
+                "address_locality": "Sacramento",
+                "address_region": "CA",
+                "postal_code": "95818",
+                "street_address": "2210 16th St",
+                "latitude": "38.56464767",
+                "longitude": "-121.49136353"
+            },
+            "rating": 0,
+            "review_count": 0,
+            "cuisines": [
+                "Japanese",
+                "Asian",
+                "Lunch Specials",
+                "Poke",
+                "Sushi",
+                "Vegetarian"
+            ],
+            "timestamp": "2025-03-16 12:11:46"
+        },
+        {
+            "id": "",
+            "name": "Satori Sushi",
+            "address": {
+                "address_country": null,
+                "address_locality": "Sacramento",
+                "address_region": "CA",
+                "postal_code": "95833",
+                "street_address": "2550 W El Camino Ave",
+                "latitude": "38.61301422",
+                "longitude": "-121.51853943"
+            },
+            "rating": 0,
+            "review_count": 0,
+            "cuisines": [
+                "Japanese",
+                "Asian",
+                "Bowls",
+                "Dessert",
+                "Sushi"
+            ],
+            "timestamp": "2025-03-16 12:11:46"
+        },
+        {
+            "id": "",
+            "name": "Raku Sushi",
+            "address": {
+                "address_country": null,
+                "address_locality": "West Sacramento",
+                "address_region": "CA",
+                "postal_code": "95691",
+                "street_address": "805 Harbor Blvd",
+                "latitude": "38.57844161",
+                "longitude": "-121.54844666"
+            },
+            "rating": 0,
+            "review_count": 0,
+            "cuisines": [
+                "Japanese",
+                "Seafood",
+                "Sushi"
+            ],
+            "timestamp": "2025-03-16 12:11:46"
+        },
+        {
+            "id": "",
+            "name": "Teriyaki Madness",
+            "address": {
+                "address_country": null,
+                "address_locality": "West Sacramento",
+                "address_region": "CA",
+                "postal_code": "95605",
+                "street_address": "289 3rd St",
+                "latitude": "38.58860397",
+                "longitude": "-121.50971985"
+            },
+            "rating": 0,
+            "review_count": 0,
+            "cuisines": [
+                "Japanese",
+                "Asian",
+                "Asian Fusion",
+                "Vegetarian"
+            ],
+            "timestamp": "2025-03-16 12:11:46"
+        }
+    ]
+}

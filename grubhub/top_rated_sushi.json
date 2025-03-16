@@ -1,6 +1,27 @@
 {
     "top_5_rated_restaurants": [
         {
+            "restaurant_id": "7001976",
+            "name": "Bangkok Garden Thai Cuisine & Sushi Bar",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.9,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "7.6",
+            "delivery_time_estimate": {
+                "min": 50,
+                "max": 65
+            },
+            "cuisines": [
+                "Sushi",
+                "Asian",
+                "Bubble Tea",
+                "Thai"
+            ]
+        },
+        {
             "restaurant_id": "1453092",
             "name": "Fish Face Poke Bar",
             "pickup_available": false,
@@ -11,8 +32,8 @@
             "accepts_cash": false,
             "distance_from_location": "14.59",
             "delivery_time_estimate": {
-                "min": 35,
-                "max": 50
+                "min": 40,
+                "max": 55
             },
             "cuisines": [
                 "Sushi",
@@ -31,8 +52,8 @@
             "accepts_cash": false,
             "distance_from_location": "15.45",
             "delivery_time_estimate": {
-                "min": 35,
-                "max": 50
+                "min": 40,
+                "max": 55
             },
             "cuisines": [
                 "Sushi",
@@ -51,8 +72,8 @@
             "accepts_cash": false,
             "distance_from_location": "14.77",
             "delivery_time_estimate": {
-                "min": 30,
-                "max": 45
+                "min": 35,
+                "max": 50
             },
             "cuisines": [
                 "Sushi",
@@ -74,8 +95,8 @@
             "accepts_cash": false,
             "distance_from_location": "14.03",
             "delivery_time_estimate": {
-                "min": 35,
-                "max": 50
+                "min": 40,
+                "max": 55
             },
             "cuisines": [
                 "Sushi",
@@ -83,29 +104,6 @@
                 "Asian",
                 "Bowls",
                 "Dessert"
-            ]
-        },
-        {
-            "restaurant_id": "553901",
-            "name": "Davis Sushi Restaurant",
-            "pickup_available": false,
-            "delivery_available": true,
-            "rating": 4.5,
-            "coupons_available": false,
-            "accepts_credit": false,
-            "accepts_cash": false,
-            "distance_from_location": "1.39",
-            "delivery_time_estimate": {
-                "min": 20,
-                "max": 35
-            },
-            "cuisines": [
-                "Sushi",
-                "Japanese",
-                "Asian",
-                "Breakfast",
-                "Lunch Specials",
-                "Seafood"
             ]
         }
     ]

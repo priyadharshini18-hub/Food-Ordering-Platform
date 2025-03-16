@@ -1,0 +1,130 @@
+{
+    "top_5_rating_delivery_restaurants": [
+        {
+            "restaurant_id": "3143146",
+            "name": "Grubhub Goods",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 5.0,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.56",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "cuisines": [
+                "Pizza",
+                "Convenience",
+                "Candy",
+                "Chicken",
+                "Dessert",
+                "Fast Food",
+                "Ice Cream",
+                "Snacks",
+                "Wings"
+            ],
+            "avg_delivery_time": 27.5,
+            "combined_score": 5.777777777777778
+        },
+        {
+            "restaurant_id": "2115985",
+            "name": "7-Eleven",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.7,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.56",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "cuisines": [
+                "Pizza",
+                "Convenience",
+                "Alcohol",
+                "Candy",
+                "Chicken",
+                "Fast Food",
+                "Ice Cream",
+                "Snacks",
+                "Wings"
+            ],
+            "avg_delivery_time": 27.5,
+            "combined_score": 5.597777777777777
+        },
+        {
+            "restaurant_id": "5616456",
+            "name": "Little Caesars Pizza",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 5.0,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.9",
+            "delivery_time_estimate": {
+                "min": 25,
+                "max": 40
+            },
+            "cuisines": [
+                "Pizza",
+                "American",
+                "Fast Food",
+                "Italian",
+                "Lunch Specials",
+                "Wings"
+            ],
+            "avg_delivery_time": 32.5,
+            "combined_score": 5.555555555555555
+        },
+        {
+            "restaurant_id": "8749232",
+            "name": "Cenarios Pizza Davis",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 5.0,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.88",
+            "delivery_time_estimate": {
+                "min": 25,
+                "max": 40
+            },
+            "cuisines": [
+                "Pizza",
+                "American",
+                "Fast Food"
+            ],
+            "avg_delivery_time": 32.5,
+            "combined_score": 5.555555555555555
+        },
+        {
+            "restaurant_id": "2856353",
+            "name": "Calzone  Life",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.5,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.56",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "cuisines": [
+                "Pizza",
+                "Calzones",
+                "Dessert",
+                "Salads"
+            ],
+            "avg_delivery_time": 27.5,
+            "combined_score": 5.477777777777778
+        }
+    ]
+}

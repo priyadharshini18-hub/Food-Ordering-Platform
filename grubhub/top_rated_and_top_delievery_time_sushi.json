@@ -1,5 +1,5 @@
 {
-    "top_5_fastest_delivery_restaurants": [
+    "top_5_rating_delivery_restaurants": [
         {
             "restaurant_id": "8928272",
             "name": "Nami Sushi",
@@ -20,7 +20,8 @@
                 "Salads",
                 "Seafood"
             ],
-            "avg_delivery_time": 32.5
+            "avg_delivery_time": 32.5,
+            "combined_score": 5.075555555555555
         },
         {
             "restaurant_id": "1039990",
@@ -41,7 +42,8 @@
                 "Japanese",
                 "Seafood"
             ],
-            "avg_delivery_time": 37.5
+            "avg_delivery_time": 37.5,
+            "combined_score": 5.033333333333333
         },
         {
             "restaurant_id": "425422",
@@ -65,30 +67,30 @@
                 "Poke",
                 "Vegetarian"
             ],
-            "avg_delivery_time": 42.5
+            "avg_delivery_time": 42.5,
+            "combined_score": 4.8711111111111105
         },
         {
-            "restaurant_id": "2941825",
-            "name": "Satori Sushi",
+            "restaurant_id": "1453092",
+            "name": "Fish Face Poke Bar",
             "pickup_available": false,
             "delivery_available": true,
-            "rating": 4.6,
+            "rating": 4.8,
             "coupons_available": false,
             "accepts_credit": false,
             "accepts_cash": false,
-            "distance_from_location": "14.03",
+            "distance_from_location": "14.59",
             "delivery_time_estimate": {
                 "min": 40,
                 "max": 55
             },
             "cuisines": [
                 "Sushi",
-                "Japanese",
-                "Asian",
-                "Bowls",
-                "Dessert"
+                "Poke",
+                "Seafood"
             ],
-            "avg_delivery_time": 47.5
+            "avg_delivery_time": 47.5,
+            "combined_score": 4.768888888888888
         },
         {
             "restaurant_id": "8025224",
@@ -109,7 +111,8 @@
                 "Bowls",
                 "Burritos"
             ],
-            "avg_delivery_time": 47.5
+            "avg_delivery_time": 47.5,
+            "combined_score": 4.708888888888889
         }
     ]
 }

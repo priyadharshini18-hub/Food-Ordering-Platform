@@ -1,29 +1,6 @@
 {
     "restaurants": [
         {
-            "restaurant_id": "553901",
-            "name": "Davis Sushi Restaurant",
-            "pickup_available": false,
-            "delivery_available": true,
-            "rating": 4.5,
-            "coupons_available": false,
-            "accepts_credit": false,
-            "accepts_cash": false,
-            "distance_from_location": "1.39",
-            "delivery_time_estimate": {
-                "min": 20,
-                "max": 35
-            },
-            "cuisines": [
-                "Sushi",
-                "Japanese",
-                "Asian",
-                "Breakfast",
-                "Lunch Specials",
-                "Seafood"
-            ]
-        },
-        {
             "restaurant_id": "8928272",
             "name": "Nami Sushi",
             "pickup_available": false,
@@ -55,8 +32,8 @@
             "accepts_cash": false,
             "distance_from_location": "14.77",
             "delivery_time_estimate": {
-                "min": 30,
-                "max": 45
+                "min": 35,
+                "max": 50
             },
             "cuisines": [
                 "Sushi",
@@ -78,8 +55,8 @@
             "accepts_cash": false,
             "distance_from_location": "14.03",
             "delivery_time_estimate": {
-                "min": 35,
-                "max": 50
+                "min": 40,
+                "max": 55
             },
             "cuisines": [
                 "Sushi",
@@ -87,49 +64,6 @@
                 "Asian",
                 "Bowls",
                 "Dessert"
-            ]
-        },
-        {
-            "restaurant_id": "1039990",
-            "name": "Raku Sushi",
-            "pickup_available": false,
-            "delivery_available": true,
-            "rating": 4.5,
-            "coupons_available": false,
-            "accepts_credit": false,
-            "accepts_cash": false,
-            "distance_from_location": "11.84",
-            "delivery_time_estimate": {
-                "min": 30,
-                "max": 45
-            },
-            "cuisines": [
-                "Sushi",
-                "Japanese",
-                "Seafood"
-            ]
-        },
-        {
-            "restaurant_id": "1718518",
-            "name": "Ju Hachi",
-            "pickup_available": false,
-            "delivery_available": true,
-            "rating": 4.5,
-            "coupons_available": false,
-            "accepts_credit": false,
-            "accepts_cash": false,
-            "distance_from_location": "15.01",
-            "delivery_time_estimate": {
-                "min": 35,
-                "max": 50
-            },
-            "cuisines": [
-                "Sushi",
-                "Japanese",
-                "Asian",
-                "Lunch Specials",
-                "Noodles",
-                "Ramen"
             ]
         },
         {
@@ -153,25 +87,45 @@
             ]
         },
         {
-            "restaurant_id": "7583696",
-            "name": "Tasty Gourmet",
+            "restaurant_id": "1039990",
+            "name": "Raku Sushi",
             "pickup_available": false,
             "delivery_available": true,
-            "rating": 4.6,
+            "rating": 4.5,
             "coupons_available": false,
             "accepts_credit": false,
             "accepts_cash": false,
-            "distance_from_location": "2.75",
+            "distance_from_location": "11.84",
             "delivery_time_estimate": {
-                "min": 25,
-                "max": 40
+                "min": 30,
+                "max": 45
             },
             "cuisines": [
+                "Sushi",
+                "Japanese",
+                "Seafood"
+            ]
+        },
+        {
+            "restaurant_id": "1097422",
+            "name": "Lazi Cow",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.2,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.27",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "cuisines": [
+                "Dessert",
                 "Asian",
-                "Dim Sum",
-                "Noodles",
-                "Seafood",
-                "Soup"
+                "Bubble Tea",
+                "Ice Cream",
+                "Ramen"
             ]
         },
         {
@@ -185,13 +139,55 @@
             "accepts_cash": false,
             "distance_from_location": "15.45",
             "delivery_time_estimate": {
-                "min": 35,
-                "max": 50
+                "min": 40,
+                "max": 55
             },
             "cuisines": [
                 "Sushi",
                 "Bowls",
                 "Burritos"
+            ]
+        },
+        {
+            "restaurant_id": "9361512",
+            "name": "Hunan Style",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 3.7,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.31",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "cuisines": [
+                "Chinese",
+                "Asian",
+                "Dessert",
+                "Grill"
+            ]
+        },
+        {
+            "restaurant_id": "2621120",
+            "name": "Cajun Feast",
+            "pickup_available": true,
+            "delivery_available": true,
+            "rating": 4.6,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "0.92",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "cuisines": [
+                "Dessert",
+                "Noodles",
+                "Seafood",
+                "Soup"
             ]
         },
         {
@@ -205,13 +201,74 @@
             "accepts_cash": false,
             "distance_from_location": "14.59",
             "delivery_time_estimate": {
-                "min": 35,
-                "max": 50
+                "min": 40,
+                "max": 55
             },
             "cuisines": [
                 "Sushi",
                 "Poke",
                 "Seafood"
+            ]
+        },
+        {
+            "restaurant_id": "7001976",
+            "name": "Bangkok Garden Thai Cuisine & Sushi Bar",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.9,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "7.6",
+            "delivery_time_estimate": {
+                "min": 50,
+                "max": 65
+            },
+            "cuisines": [
+                "Sushi",
+                "Asian",
+                "Bubble Tea",
+                "Thai"
+            ]
+        },
+        {
+            "restaurant_id": "2734782",
+            "name": "Poke Ichii",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.4,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "14.36",
+            "delivery_time_estimate": {
+                "min": 40,
+                "max": 55
+            },
+            "cuisines": [
+                "Asian",
+                "Hawaiian",
+                "Poke"
+            ]
+        },
+        {
+            "restaurant_id": "6315824",
+            "name": "Hidden Dumpling House ",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.5,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "15.83",
+            "delivery_time_estimate": {
+                "min": 40,
+                "max": 55
+            },
+            "cuisines": [
+                "Lunch",
+                "Noodles",
+                "Soup"
             ]
         },
         {
@@ -246,8 +303,8 @@
             "accepts_cash": false,
             "distance_from_location": "14.99",
             "delivery_time_estimate": {
-                "min": 35,
-                "max": 50
+                "min": 40,
+                "max": 55
             },
             "cuisines": [
                 "Chicken",
@@ -255,23 +312,23 @@
             ]
         },
         {
-            "restaurant_id": "2734782",
-            "name": "Poke Ichii",
+            "restaurant_id": "7899184",
+            "name": "Tasty Every Hour Chinese Restaurant",
             "pickup_available": false,
             "delivery_available": true,
             "rating": 4.4,
             "coupons_available": false,
             "accepts_credit": false,
             "accepts_cash": false,
-            "distance_from_location": "14.36",
+            "distance_from_location": "15.1",
             "delivery_time_estimate": {
-                "min": 35,
-                "max": 50
+                "min": 30,
+                "max": 45
             },
             "cuisines": [
+                "Chinese",
                 "Asian",
-                "Hawaiian",
-                "Poke"
+                "Noodles"
             ]
         },
         {
@@ -279,14 +336,14 @@
             "name": "Panda Express",
             "pickup_available": false,
             "delivery_available": true,
-            "rating": 4.6,
+            "rating": 4.7,
             "coupons_available": false,
             "accepts_credit": false,
             "accepts_cash": false,
             "distance_from_location": "1.08",
             "delivery_time_estimate": {
-                "min": 30,
-                "max": 45
+                "min": 20,
+                "max": 35
             },
             "cuisines": [
                 "Asian",
@@ -294,29 +351,44 @@
             ]
         },
         {
-            "restaurant_id": "3359690",
-            "name": "Good Friends Restaurant",
+            "restaurant_id": "8688984",
+            "name": "H K Garden",
             "pickup_available": false,
             "delivery_available": true,
-            "rating": 4.5,
+            "rating": 4.2,
             "coupons_available": false,
             "accepts_credit": false,
             "accepts_cash": false,
-            "distance_from_location": "14.13",
+            "distance_from_location": "7.47",
             "delivery_time_estimate": {
-                "min": 35,
-                "max": 50
+                "min": 25,
+                "max": 40
             },
             "cuisines": [
-                "Sushi",
                 "Chinese",
-                "Asian",
+                "Coffee and Tea",
+                "Noodles"
+            ]
+        },
+        {
+            "restaurant_id": "6886080",
+            "name": "Tim's Kitchen Davis",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.4,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.36",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "cuisines": [
+                "Chinese",
                 "Chicken",
-                "Lunch Specials",
-                "Noodles",
-                "Seafood",
                 "Soup",
-                "Vegetarian"
+                "Vegetables"
             ]
         },
         {
@@ -355,8 +427,8 @@
             "accepts_cash": false,
             "distance_from_location": "9.17",
             "delivery_time_estimate": {
-                "min": 30,
-                "max": 45
+                "min": 25,
+                "max": 40
             },
             "cuisines": [
                 "Chinese",
@@ -378,8 +450,8 @@
             "accepts_cash": false,
             "distance_from_location": "14.03",
             "delivery_time_estimate": {
-                "min": 35,
-                "max": 50
+                "min": 40,
+                "max": 55
             },
             "cuisines": [
                 "Chinese",

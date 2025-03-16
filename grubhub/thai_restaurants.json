@@ -1,0 +1,90 @@
+{
+    "thai_restaurants": [
+        {
+            "id": "",
+            "name": "Thai Farm House",
+            "address": {
+                "address_country": null,
+                "address_locality": "Sacramento",
+                "address_region": "CA",
+                "postal_code": "95818",
+                "street_address": "1049 Broadway Ste 40",
+                "latitude": "38.56356048",
+                "longitude": "-121.49869538"
+            },
+            "rating": 0,
+            "review_count": 0,
+            "cuisines": [
+                "Thai",
+                "Asian"
+            ],
+            "timestamp": "2025-03-16 12:11:45"
+        },
+        {
+            "id": "",
+            "name": "Manaao Thai Cuisine",
+            "address": {
+                "address_country": null,
+                "address_locality": "West Sacramento",
+                "address_region": "CA",
+                "postal_code": "95605",
+                "street_address": "715 Harbor Pointe Pl #200",
+                "latitude": "38.59115627234465",
+                "longitude": "-121.55453894141036"
+            },
+            "rating": 0,
+            "review_count": 0,
+            "cuisines": [
+                "Thai",
+                "Dinner",
+                "Noodles",
+                "Salads",
+                "Soup"
+            ],
+            "timestamp": "2025-03-16 12:11:45"
+        },
+        {
+            "id": "",
+            "name": "Red 88 Noodle Bar",
+            "address": {
+                "address_country": null,
+                "address_locality": "Davis",
+                "address_region": "CA",
+                "postal_code": "95616",
+                "street_address": "223 G St",
+                "latitude": "38.54433822",
+                "longitude": "-121.73925782"
+            },
+            "rating": 0,
+            "review_count": 0,
+            "cuisines": [
+                "Thai",
+                "Noodles",
+                "Soup"
+            ],
+            "timestamp": "2025-03-16 12:11:45"
+        },
+        {
+            "id": "",
+            "name": "Bangkok Garden Thai Cuisine & Sushi Bar",
+            "address": {
+                "address_country": null,
+                "address_locality": "Dixon",
+                "address_region": "CA",
+                "postal_code": "95620",
+                "street_address": "119 N 1st St",
+                "latitude": "38.44581604",
+                "longitude": "-121.82283021"
+            },
+            "rating": 0,
+            "review_count": 0,
+            "cuisines": [
+                "Thai",
+                "Asian",
+                "Bubble Tea",
+                "Sushi"
+            ],
+            "timestamp": "2025-03-16 12:11:45"
+        }
+    ]
+}

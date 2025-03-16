@@ -1,0 +1,158 @@
+{
+    "chinese_restaurants": [
+        {
+            "id": "",
+            "name": "Tasty Kitchen",
+            "address": {
+                "address_country": null,
+                "address_locality": "Davis",
+                "address_region": "CA",
+                "postal_code": "95616",
+                "street_address": "335 F Street",
+                "latitude": "38.54578711333113",
+                "longitude": "-121.7408356"
+            },
+            "rating": 0,
+            "review_count": 0,
+            "cuisines": [
+                "Chinese",
+                "BBQ",
+                "Chicken",
+                "Noodles",
+                "Seafood",
+                "Soup"
+            ],
+            "timestamp": "2025-03-16 12:11:45"
+        },
+        {
+            "id": "",
+            "name": "Panda Express",
+            "address": {
+                "address_country": null,
+                "address_locality": "Davis",
+                "address_region": "CA",
+                "postal_code": "95616",
+                "street_address": "1491 W Covell Blvd",
+                "latitude": "38.56122589",
+                "longitude": "-121.76553345"
+            },
+            "rating": 0,
+            "review_count": 0,
+            "cuisines": [
+                "Chinese",
+                "Asian"
+            ],
+            "timestamp": "2025-03-16 12:11:45"
+        },
+        {
+            "id": "",
+            "name": "Hunan Style",
+            "address": {
+                "address_country": null,
+                "address_locality": "Davis",
+                "address_region": "CA",
+                "postal_code": "95616",
+                "street_address": "630 G St",
+                "latitude": "38.54999923",
+                "longitude": "-121.73998261"
+            },
+            "rating": 0,
+            "review_count": 0,
+            "cuisines": [
+                "Chinese",
+                "Asian",
+                "Dessert",
+                "Grill"
+            ],
+            "timestamp": "2025-03-16 12:11:45"
+        },
+        {
+            "id": "",
+            "name": "T & Z Chinese Restaurant",
+            "address": {
+                "address_country": null,
+                "address_locality": "Sacramento",
+                "address_region": "CA",
+                "postal_code": "95833",
+                "street_address": "2550 W El Camino Ave",
+                "latitude": "38.61301422",
+                "longitude": "-121.51853943"
+            },
+            "rating": 0,
+            "review_count": 0,
+            "cuisines": [
+                "Chinese",
+                "Lunch Specials",
+                "Seafood",
+                "Soup",
+                "Vegetarian"
+            ],
+            "timestamp": "2025-03-16 12:11:45"
+        },
+        {
+            "id": "",
+            "name": "H K Garden",
+            "address": {
+                "address_country": null,
+                "address_locality": "Dixon",
+                "address_region": "CA",
+                "postal_code": "95620",
+                "street_address": "1145 Pitt School Rd Ste A",
+                "latitude": "38.45635604",
+                "longitude": "-121.84153748"
+            },
+            "rating": 0,
+            "review_count": 0,
+            "cuisines": [
+                "Chinese",
+                "Coffee and Tea",
+                "Noodles"
+            ],
+            "timestamp": "2025-03-16 12:11:45"
+        },
+        {
+            "id": "",
+            "name": "Tim's Kitchen Davis",
+            "address": {
+                "address_country": null,
+                "address_locality": "Davis",
+                "address_region": "CA",
+                "postal_code": "95616",
+                "street_address": "808 2nd St",
+                "latitude": "38.54355621",
+                "longitude": "-121.73849488"
+            },
+            "rating": 0,
+            "review_count": 0,
+            "cuisines": [
+                "Chinese",
+                "Chicken",
+                "Soup",
+                "Vegetables"
+            ],
+            "timestamp": "2025-03-16 12:11:45"
+        },
+        {
+            "id": "",
+            "name": "Tasty Palace Pin Xiang Ge",
+            "address": {
+                "address_country": null,
+                "address_locality": "Davis",
+                "address_region": "CA",
+                "postal_code": "95616",
+                "street_address": "403 G Street",
+                "latitude": "38.54631042",
+                "longitude": "-121.7400055"
+            },
+            "rating": 0,
+            "review_count": 0,
+            "cuisines": [
+                "Chinese",
+                "Chicken",
+                "Seafood",
+                "Vegetarian"
+            ],
+            "timestamp": "2025-03-16 12:11:45"
+        }
+    ]
+}

@@ -1,5 +1,5 @@
 {
-    "top_5_fastest_delivery_restaurants": [
+    "top_5_rating_delivery_restaurants": [
         {
             "restaurant_id": "2131972",
             "name": "Burger King",
@@ -21,31 +21,30 @@
                 "Dessert",
                 "Sandwiches"
             ],
-            "avg_delivery_time": 22.5
+            "avg_delivery_time": 22.5,
+            "combined_score": 5.82
         },
         {
-            "restaurant_id": "10283368",
-            "name": "Wayback Burgers",
+            "restaurant_id": "3032464",
+            "name": "Burger Den",
             "pickup_available": false,
             "delivery_available": true,
-            "rating": 3.7,
+            "rating": 5.0,
             "coupons_available": false,
             "accepts_credit": false,
             "accepts_cash": false,
-            "distance_from_location": "1.12",
+            "distance_from_location": "9.1",
             "delivery_time_estimate": {
-                "min": 20,
-                "max": 35
+                "min": 25,
+                "max": 40
             },
             "cuisines": [
                 "Hamburgers",
-                "Hamburger",
-                "Chicken",
-                "Kids Menu",
-                "Salads",
-                "Wings"
+                "American",
+                "Vegetarian"
             ],
-            "avg_delivery_time": 27.5
+            "avg_delivery_time": 32.5,
+            "combined_score": 5.555555555555555
         },
         {
             "restaurant_id": "5030624",
@@ -69,7 +68,8 @@
                 "Hot Dogs",
                 "Sandwiches"
             ],
-            "avg_delivery_time": 27.5
+            "avg_delivery_time": 27.5,
+            "combined_score": 5.417777777777777
         },
         {
             "restaurant_id": "2455132",
@@ -89,36 +89,31 @@
                 "Hamburgers",
                 "Sandwiches"
             ],
-            "avg_delivery_time": 27.5
+            "avg_delivery_time": 27.5,
+            "combined_score": 5.297777777777778
         },
         {
-            "restaurant_id": "2457649",
-            "name": "McDonald's",
+            "restaurant_id": "3103415",
+            "name": "Black Bear Diner",
             "pickup_available": false,
             "delivery_available": true,
-            "rating": 4.0,
+            "rating": 4.4,
             "coupons_available": false,
             "accepts_credit": false,
             "accepts_cash": false,
-            "distance_from_location": "3.59",
+            "distance_from_location": "9.09",
             "delivery_time_estimate": {
-                "min": 20,
-                "max": 35
+                "min": 25,
+                "max": 40
             },
             "cuisines": [
                 "Hamburgers",
-                "Fast Food",
                 "American",
-                "Bakery",
                 "Breakfast",
-                "Cafe",
-                "Chicken",
-                "Coffee and Tea",
-                "Ice Cream",
-                "Kids Menu",
-                "Sandwiches"
+                "Diner"
             ],
-            "avg_delivery_time": 27.5
+            "avg_delivery_time": 32.5,
+            "combined_score": 5.195555555555556
         }
     ]
 }
