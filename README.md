@@ -93,8 +93,12 @@ The study involved in-depth visual analyses on multiple aspects:
 
 ## References  
 - [Selenium Documentation](https://selenium-python.readthedocs.io/)  
+- [GeeksforGeeks - Selenium Python Tutorial](https://www.geeksforgeeks.org/selenium-python-tutorial/)  
 - [Matplotlib for Visualizations](https://matplotlib.org/stable/index.html)  
-- [API Scraping Techniques] (https://scrapfly.io/blog/how-to-scrape-hidden-apis/)
+- [GrubHub Developer API](https://developer.grubhub.com/)  
+- [ZenRows - Selenium Web Scraping Guide](https://www.zenrows.com/blog/selenium-python-web-scraping#build-basic-scraper/)  
+- [ScrapFly - Scraping Hidden APIs](https://scrapfly.io/blog/how-to-scrape-hidden-apis/)  
+- [FoodSpark - UberEats Web Scraping Guide](https://www.foodspark.io/ultimate-guide-to-scraping-data-from-ubereats-with-the-help-of-python-and-selenium/)  
     
 
 ---
