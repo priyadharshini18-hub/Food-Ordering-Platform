@@ -1,0 +1,1798 @@
+{
+    "restaurants": [
+        {
+            "restaurant_id": "10379840",
+            "name": "Local Kitchens",
+            "pickup_available": true,
+            "delivery_available": true,
+            "rating": 0.1,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.13",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "top_review_data": {
+                "rating_value": "N/A",
+                "review_text": "N/A",
+                "reviewer_name": "N/A",
+                "time_created": "N/A"
+            },
+            "review_data": {
+                "total_count": 0,
+                "valid_count": 0,
+                "faceted_rating_list": []
+            },
+            "cuisines": [
+                "American",
+                "Fast Food",
+                "Hamburgers"
+            ]
+        },
+        {
+            "restaurant_id": "2125568",
+            "name": "Chipotle",
+            "pickup_available": true,
+            "delivery_available": true,
+            "rating": 4.5,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "0.96",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "top_review_data": {
+                "rating_value": 5,
+                "review_text": "Good food but I wish there were options to leave notes to the cook staff in the app. I have allergies and wanted to let them know, so I had to call on the phone.",
+                "reviewer_name": "Sarah",
+                "time_created": "2025-01-24T17:59:07.000Z"
+            },
+            "review_data": {
+                "total_count": 103,
+                "valid_count": 100,
+                "faceted_rating_list": [
+                    {
+                        "facet_name": "Delivery Speed",
+                        "facet_type": "delivery_speed",
+                        "response_count": 213,
+                        "positive_response_count": 172,
+                        "positive_response_percentage": 0.8075117370892019,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Order Accuracy",
+                        "facet_type": "order_accuracy",
+                        "response_count": 422,
+                        "positive_response_count": 353,
+                        "positive_response_percentage": 0.8364928909952607,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Food Quality",
+                        "facet_type": "food_quality",
+                        "response_count": 406,
+                        "positive_response_count": 341,
+                        "positive_response_percentage": 0.8399014778325123,
+                        "too_few": false
+                    }
+                ]
+            },
+            "cuisines": [
+                "Mexican",
+                "Bowls",
+                "Burritos",
+                "Salads",
+                "Tex-Mex"
+            ]
+        },
+        {
+            "restaurant_id": "5683000",
+            "name": "Pho King 4 ",
+            "pickup_available": true,
+            "delivery_available": true,
+            "rating": 4.5,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "0.84",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "top_review_data": {
+                "rating_value": 4,
+                "review_text": "Pretty good but the beef was frozen solid and I needed to microwave it",
+                "reviewer_name": "Jeffrey",
+                "time_created": "2024-10-13T16:52:32.000Z"
+            },
+            "review_data": {
+                "total_count": 18,
+                "valid_count": 18,
+                "faceted_rating_list": [
+                    {
+                        "facet_name": "Delivery Speed",
+                        "facet_type": "delivery_speed",
+                        "response_count": 55,
+                        "positive_response_count": 50,
+                        "positive_response_percentage": 0.9090909090909091,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Order Accuracy",
+                        "facet_type": "order_accuracy",
+                        "response_count": 95,
+                        "positive_response_count": 86,
+                        "positive_response_percentage": 0.9052631578947369,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Food Quality",
+                        "facet_type": "food_quality",
+                        "response_count": 89,
+                        "positive_response_count": 77,
+                        "positive_response_percentage": 0.8651685393258427,
+                        "too_few": false
+                    }
+                ]
+            },
+            "cuisines": [
+                "Asian",
+                "Noodles",
+                "Pho",
+                "Vegetarian",
+                "Vietnamese"
+            ]
+        },
+        {
+            "restaurant_id": "2127430",
+            "name": "Jack's Urban Eats",
+            "pickup_available": true,
+            "delivery_available": true,
+            "rating": 4.8,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "0.77",
+            "delivery_time_estimate": {
+                "min": 25,
+                "max": 40
+            },
+            "top_review_data": {
+                "rating_value": 3,
+                "review_text": "Overpriced and small portion",
+                "reviewer_name": "Meera",
+                "time_created": "2024-08-02T21:08:35.000Z"
+            },
+            "review_data": {
+                "total_count": 50,
+                "valid_count": 46,
+                "faceted_rating_list": [
+                    {
+                        "facet_name": "Delivery Speed",
+                        "facet_type": "delivery_speed",
+                        "response_count": 58,
+                        "positive_response_count": 53,
+                        "positive_response_percentage": 0.9137931034482759,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Order Accuracy",
+                        "facet_type": "order_accuracy",
+                        "response_count": 180,
+                        "positive_response_count": 169,
+                        "positive_response_percentage": 0.9388888888888889,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Food Quality",
+                        "facet_type": "food_quality",
+                        "response_count": 174,
+                        "positive_response_count": 158,
+                        "positive_response_percentage": 0.9080459770114943,
+                        "too_few": false
+                    }
+                ]
+            },
+            "cuisines": [
+                "American",
+                "Bowls",
+                "Eclectic",
+                "Kids Menu",
+                "Salads",
+                "Sandwiches",
+                "Seafood"
+            ]
+        },
+        {
+            "restaurant_id": "2038919",
+            "name": "Taqueria El Burrito 2",
+            "pickup_available": true,
+            "delivery_available": true,
+            "rating": 4.8,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "0.99",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "top_review_data": {
+                "rating_value": 5,
+                "review_text": "Food good restaurant food",
+                "reviewer_name": "Michael",
+                "time_created": "2025-03-10T03:03:44.000Z"
+            },
+            "review_data": {
+                "total_count": 100,
+                "valid_count": 97,
+                "faceted_rating_list": [
+                    {
+                        "facet_name": "Delivery Speed",
+                        "facet_type": "delivery_speed",
+                        "response_count": 305,
+                        "positive_response_count": 269,
+                        "positive_response_percentage": 0.8819672131147541,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Order Accuracy",
+                        "facet_type": "order_accuracy",
+                        "response_count": 528,
+                        "positive_response_count": 473,
+                        "positive_response_percentage": 0.8958333333333334,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Food Quality",
+                        "facet_type": "food_quality",
+                        "response_count": 503,
+                        "positive_response_count": 462,
+                        "positive_response_percentage": 0.9184890656063618,
+                        "too_few": false
+                    }
+                ]
+            },
+            "cuisines": [
+                "Mexican",
+                "Burritos",
+                "Tacos"
+            ]
+        },
+        {
+            "restaurant_id": "7584832",
+            "name": "Zumapoke & Lush Ice",
+            "pickup_available": true,
+            "delivery_available": true,
+            "rating": 4.9,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.0",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "top_review_data": {
+                "rating_value": 5,
+                "review_text": "It was good",
+                "reviewer_name": "Nathan",
+                "time_created": "2024-02-26T02:10:32.000Z"
+            },
+            "review_data": {
+                "total_count": 1,
+                "valid_count": 1,
+                "faceted_rating_list": [
+                    {
+                        "facet_name": "Delivery Speed",
+                        "facet_type": "delivery_speed",
+                        "response_count": 9,
+                        "positive_response_count": 9,
+                        "positive_response_percentage": 1.0,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Order Accuracy",
+                        "facet_type": "order_accuracy",
+                        "response_count": 12,
+                        "positive_response_count": 12,
+                        "positive_response_percentage": 1.0,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Food Quality",
+                        "facet_type": "food_quality",
+                        "response_count": 12,
+                        "positive_response_count": 12,
+                        "positive_response_percentage": 1.0,
+                        "too_few": false
+                    }
+                ]
+            },
+            "cuisines": [
+                "Asian",
+                "Bowls",
+                "Poke"
+            ]
+        },
+        {
+            "restaurant_id": "3128154",
+            "name": "Raising Cane's Chicken Fingers",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.7,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "0.99",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "top_review_data": {
+                "rating_value": 5,
+                "review_text": "Great restaurant, great food. Classic and reliable",
+                "reviewer_name": "Brandon",
+                "time_created": "2025-01-26T05:49:50.000Z"
+            },
+            "review_data": {
+                "total_count": 49,
+                "valid_count": 48,
+                "faceted_rating_list": [
+                    {
+                        "facet_name": "Delivery Speed",
+                        "facet_type": "delivery_speed",
+                        "response_count": 230,
+                        "positive_response_count": 190,
+                        "positive_response_percentage": 0.8260869565217391,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Order Accuracy",
+                        "facet_type": "order_accuracy",
+                        "response_count": 333,
+                        "positive_response_count": 298,
+                        "positive_response_percentage": 0.8948948948948949,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Food Quality",
+                        "facet_type": "food_quality",
+                        "response_count": 327,
+                        "positive_response_count": 302,
+                        "positive_response_percentage": 0.9235474006116208,
+                        "too_few": false
+                    }
+                ]
+            },
+            "cuisines": [
+                "Fast Food"
+            ]
+        },
+        {
+            "restaurant_id": "1958456",
+            "name": "Panda Express",
+            "pickup_available": true,
+            "delivery_available": true,
+            "rating": 4.7,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "0.81",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "top_review_data": {
+                "rating_value": 5,
+                "review_text": "Good Chinese fast food",
+                "reviewer_name": "Mark",
+                "time_created": "2024-10-29T15:35:09.000Z"
+            },
+            "review_data": {
+                "total_count": 78,
+                "valid_count": 73,
+                "faceted_rating_list": [
+                    {
+                        "facet_name": "Delivery Speed",
+                        "facet_type": "delivery_speed",
+                        "response_count": 201,
+                        "positive_response_count": 177,
+                        "positive_response_percentage": 0.8805970149253731,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Order Accuracy",
+                        "facet_type": "order_accuracy",
+                        "response_count": 335,
+                        "positive_response_count": 298,
+                        "positive_response_percentage": 0.8895522388059701,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Food Quality",
+                        "facet_type": "food_quality",
+                        "response_count": 329,
+                        "positive_response_count": 292,
+                        "positive_response_percentage": 0.8875379939209727,
+                        "too_few": false
+                    }
+                ]
+            },
+            "cuisines": [
+                "Asian",
+                "Chinese"
+            ]
+        },
+        {
+            "restaurant_id": "7443272",
+            "name": "Pho Tasty",
+            "pickup_available": true,
+            "delivery_available": true,
+            "rating": 4.7,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "0.99",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "top_review_data": {
+                "rating_value": 5,
+                "review_text": "Good but sometimes they skimp on the greenery",
+                "reviewer_name": "Corrin",
+                "time_created": "2024-03-02T04:51:05.000Z"
+            },
+            "review_data": {
+                "total_count": 2,
+                "valid_count": 2,
+                "faceted_rating_list": [
+                    {
+                        "facet_name": "Delivery Speed",
+                        "facet_type": "delivery_speed",
+                        "response_count": 7,
+                        "positive_response_count": 7,
+                        "positive_response_percentage": 1.0,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Order Accuracy",
+                        "facet_type": "order_accuracy",
+                        "response_count": 13,
+                        "positive_response_count": 13,
+                        "positive_response_percentage": 1.0,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Food Quality",
+                        "facet_type": "food_quality",
+                        "response_count": 12,
+                        "positive_response_count": 12,
+                        "positive_response_percentage": 1.0,
+                        "too_few": false
+                    }
+                ]
+            },
+            "cuisines": [
+                "Chicken",
+                "Noodles",
+                "Soup"
+            ]
+        },
+        {
+            "restaurant_id": "4976816",
+            "name": "Teriyaki Madness",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.5,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "13.37",
+            "delivery_time_estimate": {
+                "min": 40,
+                "max": 55
+            },
+            "top_review_data": {
+                "rating_value": 5,
+                "review_text": "Best teriyaki around, very good. Perfect delivery service from GrubHub!! ",
+                "reviewer_name": "Stephen",
+                "time_created": "2025-02-17T01:47:33.000Z"
+            },
+            "review_data": {
+                "total_count": 36,
+                "valid_count": 34,
+                "faceted_rating_list": [
+                    {
+                        "facet_name": "Delivery Speed",
+                        "facet_type": "delivery_speed",
+                        "response_count": 147,
+                        "positive_response_count": 144,
+                        "positive_response_percentage": 0.9795918367346939,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Order Accuracy",
+                        "facet_type": "order_accuracy",
+                        "response_count": 183,
+                        "positive_response_count": 168,
+                        "positive_response_percentage": 0.9180327868852459,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Food Quality",
+                        "facet_type": "food_quality",
+                        "response_count": 180,
+                        "positive_response_count": 158,
+                        "positive_response_percentage": 0.8777777777777778,
+                        "too_few": false
+                    }
+                ]
+            },
+            "cuisines": [
+                "Japanese",
+                "Asian",
+                "Asian Fusion",
+                "Vegetarian"
+            ]
+        },
+        {
+            "restaurant_id": "2548274",
+            "name": "Halal Bros",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.8,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "11.16",
+            "delivery_time_estimate": {
+                "min": 30,
+                "max": 45
+            },
+            "top_review_data": {
+                "rating_value": 5,
+                "review_text": "Food is good and portions generous",
+                "reviewer_name": "Sandy",
+                "time_created": "2025-03-11T03:39:45.000Z"
+            },
+            "review_data": {
+                "total_count": 75,
+                "valid_count": 72,
+                "faceted_rating_list": [
+                    {
+                        "facet_name": "Delivery Speed",
+                        "facet_type": "delivery_speed",
+                        "response_count": 284,
+                        "positive_response_count": 271,
+                        "positive_response_percentage": 0.954225352112676,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Order Accuracy",
+                        "facet_type": "order_accuracy",
+                        "response_count": 425,
+                        "positive_response_count": 399,
+                        "positive_response_percentage": 0.9388235294117647,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Food Quality",
+                        "facet_type": "food_quality",
+                        "response_count": 419,
+                        "positive_response_count": 390,
+                        "positive_response_percentage": 0.9307875894988067,
+                        "too_few": false
+                    }
+                ]
+            },
+            "cuisines": [
+                "Chicken",
+                "Dessert",
+                "Falafel",
+                "Gyro",
+                "Halal",
+                "Mediterranean",
+                "Pitas",
+                "Vegetarian"
+            ]
+        },
+        {
+            "restaurant_id": "2398130",
+            "name": "Mr. Pickle's Sandwich Shop",
+            "pickup_available": true,
+            "delivery_available": true,
+            "rating": 4.5,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.85",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "top_review_data": {
+                "rating_value": 5,
+                "review_text": "That was possibly the best meatball marinara that I've ever had. (Gotta add the garlic and pesto aioli!)",
+                "reviewer_name": "Jesse",
+                "time_created": "2025-02-08T22:42:09.000Z"
+            },
+            "review_data": {
+                "total_count": 27,
+                "valid_count": 27,
+                "faceted_rating_list": [
+                    {
+                        "facet_name": "Delivery Speed",
+                        "facet_type": "delivery_speed",
+                        "response_count": 72,
+                        "positive_response_count": 65,
+                        "positive_response_percentage": 0.9027777777777778,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Order Accuracy",
+                        "facet_type": "order_accuracy",
+                        "response_count": 128,
+                        "positive_response_count": 119,
+                        "positive_response_percentage": 0.9296875,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Food Quality",
+                        "facet_type": "food_quality",
+                        "response_count": 123,
+                        "positive_response_count": 121,
+                        "positive_response_percentage": 0.983739837398374,
+                        "too_few": false
+                    }
+                ]
+            },
+            "cuisines": [
+                "American",
+                "Deli",
+                "Sandwiches"
+            ]
+        },
+        {
+            "restaurant_id": "1950144",
+            "name": "El Patio Fresh Mexican Grill",
+            "pickup_available": true,
+            "delivery_available": true,
+            "rating": 4.2,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.01",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "top_review_data": {
+                "rating_value": 5,
+                "review_text": "One of my favorites",
+                "reviewer_name": "Kimberly",
+                "time_created": "2024-10-14T03:34:06.000Z"
+            },
+            "review_data": {
+                "total_count": 104,
+                "valid_count": 100,
+                "faceted_rating_list": [
+                    {
+                        "facet_name": "Delivery Speed",
+                        "facet_type": "delivery_speed",
+                        "response_count": 226,
+                        "positive_response_count": 197,
+                        "positive_response_percentage": 0.8716814159292036,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Order Accuracy",
+                        "facet_type": "order_accuracy",
+                        "response_count": 439,
+                        "positive_response_count": 381,
+                        "positive_response_percentage": 0.8678815489749431,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Food Quality",
+                        "facet_type": "food_quality",
+                        "response_count": 417,
+                        "positive_response_count": 350,
+                        "positive_response_percentage": 0.8393285371702638,
+                        "too_few": false
+                    }
+                ]
+            },
+            "cuisines": [
+                "Mexican",
+                "Breakfast",
+                "Burritos",
+                "Dessert",
+                "Kids Menu",
+                "Tacos"
+            ]
+        },
+        {
+            "restaurant_id": "2054645",
+            "name": "Panera Bread",
+            "pickup_available": true,
+            "delivery_available": true,
+            "rating": 4.5,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "0.95",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "top_review_data": {
+                "rating_value": 5,
+                "review_text": "You never go wrong w/ Panera Bread, always good food.",
+                "reviewer_name": "Marilyn",
+                "time_created": "2025-03-07T22:02:43.000Z"
+            },
+            "review_data": {
+                "total_count": 48,
+                "valid_count": 47,
+                "faceted_rating_list": [
+                    {
+                        "facet_name": "Delivery Speed",
+                        "facet_type": "delivery_speed",
+                        "response_count": 80,
+                        "positive_response_count": 70,
+                        "positive_response_percentage": 0.875,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Order Accuracy",
+                        "facet_type": "order_accuracy",
+                        "response_count": 202,
+                        "positive_response_count": 185,
+                        "positive_response_percentage": 0.9158415841584159,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Food Quality",
+                        "facet_type": "food_quality",
+                        "response_count": 197,
+                        "positive_response_count": 182,
+                        "positive_response_percentage": 0.9238578680203046,
+                        "too_few": false
+                    }
+                ]
+            },
+            "cuisines": [
+                "Soup",
+                "American",
+                "Bakery",
+                "Breakfast",
+                "Cafe",
+                "Chicken",
+                "Coffee and Tea",
+                "Healthy",
+                "Pizza",
+                "Salads",
+                "Sandwiches",
+                "Vegetarian"
+            ]
+        },
+        {
+            "restaurant_id": "2122900",
+            "name": "Tasty Kitchen",
+            "pickup_available": true,
+            "delivery_available": true,
+            "rating": 4.6,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "0.9",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "top_review_data": {
+                "rating_value": 5,
+                "review_text": "Short ribs were delicious",
+                "reviewer_name": "Patricio",
+                "time_created": "2024-12-14T05:41:38.000Z"
+            },
+            "review_data": {
+                "total_count": 66,
+                "valid_count": 63,
+                "faceted_rating_list": [
+                    {
+                        "facet_name": "Delivery Speed",
+                        "facet_type": "delivery_speed",
+                        "response_count": 106,
+                        "positive_response_count": 95,
+                        "positive_response_percentage": 0.8962264150943396,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Order Accuracy",
+                        "facet_type": "order_accuracy",
+                        "response_count": 242,
+                        "positive_response_count": 235,
+                        "positive_response_percentage": 0.9710743801652892,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Food Quality",
+                        "facet_type": "food_quality",
+                        "response_count": 241,
+                        "positive_response_count": 224,
+                        "positive_response_percentage": 0.9294605809128631,
+                        "too_few": false
+                    }
+                ]
+            },
+            "cuisines": [
+                "Chinese",
+                "BBQ",
+                "Chicken",
+                "Noodles",
+                "Seafood",
+                "Soup"
+            ]
+        },
+        {
+            "restaurant_id": "1285088",
+            "name": "TOGO\u2019S",
+            "pickup_available": true,
+            "delivery_available": true,
+            "rating": 4.5,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "0.87",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "top_review_data": {
+                "rating_value": 2,
+                "review_text": "I love togos but the first delivery driver took 40 minutes and then canceled the order.",
+                "reviewer_name": "Christopher",
+                "time_created": "2023-10-27T20:51:24.000Z"
+            },
+            "review_data": {
+                "total_count": 12,
+                "valid_count": 11,
+                "faceted_rating_list": [
+                    {
+                        "facet_name": "Delivery Speed",
+                        "facet_type": "delivery_speed",
+                        "response_count": 32,
+                        "positive_response_count": 27,
+                        "positive_response_percentage": 0.84375,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Order Accuracy",
+                        "facet_type": "order_accuracy",
+                        "response_count": 45,
+                        "positive_response_count": 40,
+                        "positive_response_percentage": 0.8888888888888888,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Food Quality",
+                        "facet_type": "food_quality",
+                        "response_count": 44,
+                        "positive_response_count": 38,
+                        "positive_response_percentage": 0.8636363636363636,
+                        "too_few": false
+                    }
+                ]
+            },
+            "cuisines": [
+                "Sandwich",
+                "Deli",
+                "Salads",
+                "Sandwiches"
+            ]
+        },
+        {
+            "restaurant_id": "7579992",
+            "name": "Tasty Palace Pin Xiang Ge",
+            "pickup_available": true,
+            "delivery_available": true,
+            "rating": 4.2,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "0.91",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "top_review_data": {
+                "rating_value": 5,
+                "review_text": "The braised pork belly lunch special was amazing and it came with rice, an egg roll, and baby bok choy. The pork belly was so tender, the fat was well rendered so it wasn't too fatty or oily and it was so flavorful. The brown sugar rice cakes were also crispy and chewy and delicious.",
+                "reviewer_name": "Ping",
+                "time_created": "2024-10-10T22:18:30.000Z"
+            },
+            "review_data": {
+                "total_count": 2,
+                "valid_count": 2,
+                "faceted_rating_list": [
+                    {
+                        "facet_name": "Delivery Speed",
+                        "facet_type": "delivery_speed",
+                        "response_count": 3,
+                        "positive_response_count": 3,
+                        "positive_response_percentage": 1.0,
+                        "too_few": true
+                    },
+                    {
+                        "facet_name": "Order Accuracy",
+                        "facet_type": "order_accuracy",
+                        "response_count": 5,
+                        "positive_response_count": 4,
+                        "positive_response_percentage": 0.8,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Food Quality",
+                        "facet_type": "food_quality",
+                        "response_count": 5,
+                        "positive_response_count": 4,
+                        "positive_response_percentage": 0.8,
+                        "too_few": false
+                    }
+                ]
+            },
+            "cuisines": [
+                "Chinese",
+                "Chicken",
+                "Seafood",
+                "Vegetarian"
+            ]
+        },
+        {
+            "restaurant_id": "1237550",
+            "name": "Three Ladies Cafe",
+            "pickup_available": true,
+            "delivery_available": true,
+            "rating": 3.7,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.11",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "top_review_data": {
+                "rating_value": 5,
+                "review_text": "Healthy and delicious",
+                "reviewer_name": "Joanne",
+                "time_created": "2024-06-03T19:02:16.000Z"
+            },
+            "review_data": {
+                "total_count": 29,
+                "valid_count": 27,
+                "faceted_rating_list": [
+                    {
+                        "facet_name": "Delivery Speed",
+                        "facet_type": "delivery_speed",
+                        "response_count": 63,
+                        "positive_response_count": 54,
+                        "positive_response_percentage": 0.8571428571428571,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Order Accuracy",
+                        "facet_type": "order_accuracy",
+                        "response_count": 99,
+                        "positive_response_count": 88,
+                        "positive_response_percentage": 0.8888888888888888,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Food Quality",
+                        "facet_type": "food_quality",
+                        "response_count": 99,
+                        "positive_response_count": 85,
+                        "positive_response_percentage": 0.8585858585858586,
+                        "too_few": false
+                    }
+                ]
+            },
+            "cuisines": [
+                "Coffee and Tea",
+                "Cafe",
+                "Salads",
+                "Sandwiches",
+                "Smoothies and Juices",
+                "Vegan"
+            ]
+        },
+        {
+            "restaurant_id": "7583696",
+            "name": "Tasty Gourmet",
+            "pickup_available": true,
+            "delivery_available": true,
+            "rating": 4.6,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "2.15",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "top_review_data": {
+                "rating_value": 3,
+                "review_text": "Love Love Love the restaurant, no matter what I order!!!",
+                "reviewer_name": "ALISON",
+                "time_created": "2024-12-28T02:30:52.000Z"
+            },
+            "review_data": {
+                "total_count": 2,
+                "valid_count": 2,
+                "faceted_rating_list": [
+                    {
+                        "facet_name": "Delivery Speed",
+                        "facet_type": "delivery_speed",
+                        "response_count": 15,
+                        "positive_response_count": 15,
+                        "positive_response_percentage": 1.0,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Order Accuracy",
+                        "facet_type": "order_accuracy",
+                        "response_count": 21,
+                        "positive_response_count": 21,
+                        "positive_response_percentage": 1.0,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Food Quality",
+                        "facet_type": "food_quality",
+                        "response_count": 21,
+                        "positive_response_count": 19,
+                        "positive_response_percentage": 0.9047619047619048,
+                        "too_few": false
+                    }
+                ]
+            },
+            "cuisines": [
+                "Asian",
+                "Dim Sum",
+                "Noodles",
+                "Seafood",
+                "Soup"
+            ]
+        },
+        {
+            "restaurant_id": "8864304",
+            "name": "Pho Yummy",
+            "pickup_available": true,
+            "delivery_available": true,
+            "rating": 5.0,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.02",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "top_review_data": {
+                "rating_value": "N/A",
+                "review_text": "N/A",
+                "reviewer_name": "N/A",
+                "time_created": "N/A"
+            },
+            "review_data": {
+                "total_count": 1,
+                "valid_count": 0,
+                "faceted_rating_list": [
+                    {
+                        "facet_name": "Delivery Speed",
+                        "facet_type": "delivery_speed",
+                        "response_count": 1,
+                        "positive_response_count": 1,
+                        "positive_response_percentage": 1.0,
+                        "too_few": true
+                    },
+                    {
+                        "facet_name": "Order Accuracy",
+                        "facet_type": "order_accuracy",
+                        "response_count": 2,
+                        "positive_response_count": 2,
+                        "positive_response_percentage": 1.0,
+                        "too_few": true
+                    },
+                    {
+                        "facet_name": "Food Quality",
+                        "facet_type": "food_quality",
+                        "response_count": 2,
+                        "positive_response_count": 2,
+                        "positive_response_percentage": 1.0,
+                        "too_few": true
+                    }
+                ]
+            },
+            "cuisines": [
+                "Noodles",
+                "Pho",
+                "Vietnamese"
+            ]
+        },
+        {
+            "restaurant_id": "10283368",
+            "name": "Wayback Burgers",
+            "pickup_available": true,
+            "delivery_available": true,
+            "rating": 3.7,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "0.8",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "top_review_data": {
+                "rating_value": 5,
+                "review_text": "I would go back for sure.",
+                "reviewer_name": "Christopher",
+                "time_created": "2025-01-28T21:18:18.000Z"
+            },
+            "review_data": {
+                "total_count": 1,
+                "valid_count": 1,
+                "faceted_rating_list": [
+                    {
+                        "facet_name": "Order Accuracy",
+                        "facet_type": "order_accuracy",
+                        "response_count": 1,
+                        "positive_response_count": 1,
+                        "positive_response_percentage": 1.0,
+                        "too_few": true
+                    },
+                    {
+                        "facet_name": "Food Quality",
+                        "facet_type": "food_quality",
+                        "response_count": 1,
+                        "positive_response_count": 1,
+                        "positive_response_percentage": 1.0,
+                        "too_few": true
+                    }
+                ]
+            },
+            "cuisines": [
+                "Hamburger",
+                "Chicken",
+                "Hamburgers",
+                "Kids Menu",
+                "Salads",
+                "Wings"
+            ]
+        },
+        {
+            "restaurant_id": "7739016",
+            "name": "Dos Coyotes Border Cafe",
+            "pickup_available": true,
+            "delivery_available": true,
+            "rating": 4.6,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "0.89",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "top_review_data": {
+                "rating_value": 5,
+                "review_text": "Food was great as usual",
+                "reviewer_name": "Colleen",
+                "time_created": "2024-12-29T02:40:08.000Z"
+            },
+            "review_data": {
+                "total_count": 7,
+                "valid_count": 7,
+                "faceted_rating_list": [
+                    {
+                        "facet_name": "Delivery Speed",
+                        "facet_type": "delivery_speed",
+                        "response_count": 8,
+                        "positive_response_count": 8,
+                        "positive_response_percentage": 1.0,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Order Accuracy",
+                        "facet_type": "order_accuracy",
+                        "response_count": 23,
+                        "positive_response_count": 23,
+                        "positive_response_percentage": 1.0,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Food Quality",
+                        "facet_type": "food_quality",
+                        "response_count": 21,
+                        "positive_response_count": 21,
+                        "positive_response_percentage": 1.0,
+                        "too_few": false
+                    }
+                ]
+            },
+            "cuisines": [
+                "Mexican",
+                "Cafe",
+                "Tacos"
+            ]
+        },
+        {
+            "restaurant_id": "7933384",
+            "name": "Bruxie",
+            "pickup_available": true,
+            "delivery_available": true,
+            "rating": 4.0,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.15",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "top_review_data": {
+                "rating_value": 5,
+                "review_text": "Bruxies food is delicious",
+                "reviewer_name": "Anne",
+                "time_created": "2024-08-03T01:11:53.000Z"
+            },
+            "review_data": {
+                "total_count": 2,
+                "valid_count": 2,
+                "faceted_rating_list": [
+                    {
+                        "facet_name": "Delivery Speed",
+                        "facet_type": "delivery_speed",
+                        "response_count": 7,
+                        "positive_response_count": 7,
+                        "positive_response_percentage": 1.0,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Order Accuracy",
+                        "facet_type": "order_accuracy",
+                        "response_count": 13,
+                        "positive_response_count": 10,
+                        "positive_response_percentage": 0.7692307692307693,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Food Quality",
+                        "facet_type": "food_quality",
+                        "response_count": 13,
+                        "positive_response_count": 13,
+                        "positive_response_percentage": 1.0,
+                        "too_few": false
+                    }
+                ]
+            },
+            "cuisines": [
+                "American",
+                "Breakfast",
+                "Brunch"
+            ]
+        },
+        {
+            "restaurant_id": "3344719",
+            "name": "Five Guys",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.3,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "11.24",
+            "delivery_time_estimate": {
+                "min": 40,
+                "max": 55
+            },
+            "top_review_data": {
+                "rating_value": 4,
+                "review_text": "First time eating 5guys. Not a fan.",
+                "reviewer_name": "DJ",
+                "time_created": "2025-02-21T05:56:08.000Z"
+            },
+            "review_data": {
+                "total_count": 8,
+                "valid_count": 7,
+                "faceted_rating_list": [
+                    {
+                        "facet_name": "Delivery Speed",
+                        "facet_type": "delivery_speed",
+                        "response_count": 19,
+                        "positive_response_count": 18,
+                        "positive_response_percentage": 0.9473684210526315,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Order Accuracy",
+                        "facet_type": "order_accuracy",
+                        "response_count": 35,
+                        "positive_response_count": 31,
+                        "positive_response_percentage": 0.8857142857142857,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Food Quality",
+                        "facet_type": "food_quality",
+                        "response_count": 31,
+                        "positive_response_count": 28,
+                        "positive_response_percentage": 0.9032258064516129,
+                        "too_few": false
+                    }
+                ]
+            },
+            "cuisines": [
+                "American",
+                "Hamburgers",
+                "Hot Dogs",
+                "Sandwiches"
+            ]
+        },
+        {
+            "restaurant_id": "8928272",
+            "name": "Nami Sushi",
+            "pickup_available": true,
+            "delivery_available": true,
+            "rating": 4.2,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "2.15",
+            "delivery_time_estimate": {
+                "min": 25,
+                "max": 40
+            },
+            "top_review_data": {
+                "rating_value": 5,
+                "review_text": "So good! very reasonable pricing and they even accommodated my request",
+                "reviewer_name": "Marin",
+                "time_created": "2025-03-02T01:24:57.000Z"
+            },
+            "review_data": {
+                "total_count": 4,
+                "valid_count": 4,
+                "faceted_rating_list": [
+                    {
+                        "facet_name": "Order Accuracy",
+                        "facet_type": "order_accuracy",
+                        "response_count": 3,
+                        "positive_response_count": 3,
+                        "positive_response_percentage": 1.0,
+                        "too_few": true
+                    },
+                    {
+                        "facet_name": "Food Quality",
+                        "facet_type": "food_quality",
+                        "response_count": 4,
+                        "positive_response_count": 4,
+                        "positive_response_percentage": 1.0,
+                        "too_few": true
+                    }
+                ]
+            },
+            "cuisines": [
+                "Bar Food",
+                "Salads",
+                "Seafood",
+                "Sushi"
+            ]
+        },
+        {
+            "restaurant_id": "1090448",
+            "name": "Firehouse Subs",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.1,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "14.62",
+            "delivery_time_estimate": {
+                "min": 45,
+                "max": 60
+            },
+            "top_review_data": {
+                "rating_value": "N/A",
+                "review_text": "N/A",
+                "reviewer_name": "N/A",
+                "time_created": "N/A"
+            },
+            "review_data": {
+                "total_count": 0,
+                "valid_count": 0,
+                "faceted_rating_list": [
+                    {
+                        "facet_name": "Delivery Speed",
+                        "facet_type": "delivery_speed",
+                        "response_count": 238,
+                        "positive_response_count": 208,
+                        "positive_response_percentage": 0.8739495798319328,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Order Accuracy",
+                        "facet_type": "order_accuracy",
+                        "response_count": 347,
+                        "positive_response_count": 293,
+                        "positive_response_percentage": 0.8443804034582133,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Food Quality",
+                        "facet_type": "food_quality",
+                        "response_count": 340,
+                        "positive_response_count": 305,
+                        "positive_response_percentage": 0.8970588235294118,
+                        "too_few": false
+                    }
+                ]
+            },
+            "cuisines": [
+                "Sandwich",
+                "American",
+                "Sandwiches",
+                "Subs"
+            ]
+        },
+        {
+            "restaurant_id": "3361235",
+            "name": "Habit Burger & Grill",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 3.7,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "8.27",
+            "delivery_time_estimate": {
+                "min": 35,
+                "max": 50
+            },
+            "top_review_data": {
+                "rating_value": 4,
+                "review_text": "Food is quite good and prices are reasonable.",
+                "reviewer_name": "David",
+                "time_created": "2023-11-10T03:29:00.000Z"
+            },
+            "review_data": {
+                "total_count": 6,
+                "valid_count": 6,
+                "faceted_rating_list": [
+                    {
+                        "facet_name": "Delivery Speed",
+                        "facet_type": "delivery_speed",
+                        "response_count": 21,
+                        "positive_response_count": 14,
+                        "positive_response_percentage": 0.6666666666666666,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Order Accuracy",
+                        "facet_type": "order_accuracy",
+                        "response_count": 34,
+                        "positive_response_count": 28,
+                        "positive_response_percentage": 0.8235294117647058,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Food Quality",
+                        "facet_type": "food_quality",
+                        "response_count": 34,
+                        "positive_response_count": 27,
+                        "positive_response_percentage": 0.7941176470588235,
+                        "too_few": false
+                    }
+                ]
+            },
+            "cuisines": [
+                "American",
+                "Chicken",
+                "Hamburgers",
+                "Kids Menu"
+            ]
+        },
+        {
+            "restaurant_id": "7133584",
+            "name": "Popeyes",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 3.9,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "6.94",
+            "delivery_time_estimate": {
+                "min": 40,
+                "max": 55
+            },
+            "top_review_data": {
+                "rating_value": 5,
+                "review_text": "Consistent with all other Popeye's",
+                "reviewer_name": "DJ",
+                "time_created": "2025-02-19T04:30:40.000Z"
+            },
+            "review_data": {
+                "total_count": 6,
+                "valid_count": 6,
+                "faceted_rating_list": [
+                    {
+                        "facet_name": "Delivery Speed",
+                        "facet_type": "delivery_speed",
+                        "response_count": 21,
+                        "positive_response_count": 14,
+                        "positive_response_percentage": 0.6666666666666666,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Order Accuracy",
+                        "facet_type": "order_accuracy",
+                        "response_count": 30,
+                        "positive_response_count": 24,
+                        "positive_response_percentage": 0.8,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Food Quality",
+                        "facet_type": "food_quality",
+                        "response_count": 30,
+                        "positive_response_count": 25,
+                        "positive_response_percentage": 0.8333333333333334,
+                        "too_few": false
+                    }
+                ]
+            },
+            "cuisines": [
+                "Fast Food",
+                "American",
+                "Chicken",
+                "Sandwiches",
+                "Southern"
+            ]
+        },
+        {
+            "restaurant_id": "8805848",
+            "name": "Dah Bao",
+            "pickup_available": true,
+            "delivery_available": true,
+            "rating": 5.0,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "2.15",
+            "delivery_time_estimate": {
+                "min": 25,
+                "max": 40
+            },
+            "top_review_data": {
+                "rating_value": 5,
+                "review_text": "The food was amazing and flavorful.  Just wish the driver would pay attention to the delivery notes and stop delivering my food to the wrong address.",
+                "reviewer_name": "C",
+                "time_created": "2024-08-25T22:56:03.000Z"
+            },
+            "review_data": {
+                "total_count": 1,
+                "valid_count": 1,
+                "faceted_rating_list": [
+                    {
+                        "facet_name": "Delivery Speed",
+                        "facet_type": "delivery_speed",
+                        "response_count": 1,
+                        "positive_response_count": 0,
+                        "positive_response_percentage": 0.0,
+                        "too_few": true
+                    },
+                    {
+                        "facet_name": "Order Accuracy",
+                        "facet_type": "order_accuracy",
+                        "response_count": 2,
+                        "positive_response_count": 2,
+                        "positive_response_percentage": 1.0,
+                        "too_few": true
+                    },
+                    {
+                        "facet_name": "Food Quality",
+                        "facet_type": "food_quality",
+                        "response_count": 2,
+                        "positive_response_count": 2,
+                        "positive_response_percentage": 1.0,
+                        "too_few": true
+                    }
+                ]
+            },
+            "cuisines": [
+                "Coffee and Tea",
+                "Asian",
+                "Bubble Tea",
+                "Dim Sum",
+                "Noodles"
+            ]
+        },
+        {
+            "restaurant_id": "6886096",
+            "name": "Manna Restaurant",
+            "pickup_available": true,
+            "delivery_available": true,
+            "rating": 4.7,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "0.97",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "top_review_data": {
+                "rating_value": "N/A",
+                "review_text": "N/A",
+                "reviewer_name": "N/A",
+                "time_created": "N/A"
+            },
+            "review_data": {
+                "total_count": 0,
+                "valid_count": 0,
+                "faceted_rating_list": [
+                    {
+                        "facet_name": "Delivery Speed",
+                        "facet_type": "delivery_speed",
+                        "response_count": 3,
+                        "positive_response_count": 3,
+                        "positive_response_percentage": 1.0,
+                        "too_few": true
+                    },
+                    {
+                        "facet_name": "Order Accuracy",
+                        "facet_type": "order_accuracy",
+                        "response_count": 3,
+                        "positive_response_count": 3,
+                        "positive_response_percentage": 1.0,
+                        "too_few": true
+                    },
+                    {
+                        "facet_name": "Food Quality",
+                        "facet_type": "food_quality",
+                        "response_count": 4,
+                        "positive_response_count": 4,
+                        "positive_response_percentage": 1.0,
+                        "too_few": true
+                    }
+                ]
+            },
+            "cuisines": [
+                "Asian",
+                "Korean"
+            ]
+        },
+        {
+            "restaurant_id": "2856353",
+            "name": "Calzone  Life",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.5,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "1.07",
+            "delivery_time_estimate": {
+                "min": 20,
+                "max": 35
+            },
+            "top_review_data": {
+                "rating_value": 5,
+                "review_text": "Solid driver and all around good situational awareness \ud83e\udee1\ud83c\uddec\ud83c\udde7\ud83c\uddfa\ud83c\uddf8",
+                "reviewer_name": "Jeremy",
+                "time_created": "2024-05-27T06:10:49.000Z"
+            },
+            "review_data": {
+                "total_count": 13,
+                "valid_count": 13,
+                "faceted_rating_list": [
+                    {
+                        "facet_name": "Delivery Speed",
+                        "facet_type": "delivery_speed",
+                        "response_count": 43,
+                        "positive_response_count": 37,
+                        "positive_response_percentage": 0.8604651162790697,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Order Accuracy",
+                        "facet_type": "order_accuracy",
+                        "response_count": 55,
+                        "positive_response_count": 48,
+                        "positive_response_percentage": 0.8727272727272727,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Food Quality",
+                        "facet_type": "food_quality",
+                        "response_count": 53,
+                        "positive_response_count": 46,
+                        "positive_response_percentage": 0.8679245283018868,
+                        "too_few": false
+                    }
+                ]
+            },
+            "cuisines": [
+                "Pizza",
+                "Calzones",
+                "Dessert",
+                "Salads"
+            ]
+        },
+        {
+            "restaurant_id": "994364",
+            "name": "Thai Farm House",
+            "pickup_available": false,
+            "delivery_available": true,
+            "rating": 4.8,
+            "coupons_available": false,
+            "accepts_credit": false,
+            "accepts_cash": false,
+            "distance_from_location": "13.77",
+            "delivery_time_estimate": {
+                "min": 40,
+                "max": 55
+            },
+            "top_review_data": {
+                "rating_value": 5,
+                "review_text": "The food was great",
+                "reviewer_name": "Vanessa",
+                "time_created": "2025-02-02T02:20:44.000Z"
+            },
+            "review_data": {
+                "total_count": 269,
+                "valid_count": 261,
+                "faceted_rating_list": [
+                    {
+                        "facet_name": "Delivery Speed",
+                        "facet_type": "delivery_speed",
+                        "response_count": 582,
+                        "positive_response_count": 531,
+                        "positive_response_percentage": 0.9123711340206185,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Order Accuracy",
+                        "facet_type": "order_accuracy",
+                        "response_count": 1039,
+                        "positive_response_count": 986,
+                        "positive_response_percentage": 0.9489894128970163,
+                        "too_few": false
+                    },
+                    {
+                        "facet_name": "Food Quality",
+                        "facet_type": "food_quality",
+                        "response_count": 1008,
+                        "positive_response_count": 962,
+                        "positive_response_percentage": 0.9543650793650794,
+                        "too_few": false
+                    }
+                ]
+            },
+            "cuisines": [
+                "Asian",
+                "Thai"
+            ]
+        }
+    ]
+}
