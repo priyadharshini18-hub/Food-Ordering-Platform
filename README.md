@@ -94,9 +94,9 @@ The study involved in-depth visual analyses on multiple aspects:
 ## References  
 - [Selenium Documentation](https://selenium-python.readthedocs.io/)  
 - [Matplotlib for Visualizations](https://matplotlib.org/stable/index.html)  
-- **API Scraping Techniques**  
+- [API Scraping Techniques] (https://scrapfly.io/blog/how-to-scrape-hidden-apis/)
+    
 
 ---
 
-**🔹 This study provides insights into food delivery platforms, helping customers make better-informed choices when ordering food! **  
 
